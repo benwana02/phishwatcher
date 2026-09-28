@@ -1,0 +1,4241 @@
+{
+  "nodes": {
+    "phillip.allen@enron.com": {
+      "type": "sender",
+      "email_count": 97
+    },
+    "tim.belden@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "john.lavorato@enron.com": {
+      "type": "recipient",
+      "email_count": 5
+    },
+    "buck.buckner@honeywell.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "cooper.richey@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "stagecoachmama@hotmail.com": {
+      "type": "recipient",
+      "email_count": 10
+    },
+    "eric.bass@enron.com": {
+      "type": "sender",
+      "email_count": 903
+    },
+    "joanie.ngo@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "kyle.lilly@enron.com": {
+      "type": "recipient",
+      "email_count": 7
+    },
+    "brenda.herod@enron.com": {
+      "type": "recipient",
+      "email_count": 9
+    },
+    "brian.hoskins@enron.com": {
+      "type": "recipient",
+      "email_count": 73
+    },
+    "bryan.hull@enron.com": {
+      "type": "recipient",
+      "email_count": 156
+    },
+    "danielles@jonesgranger.com": {
+      "type": "recipient",
+      "email_count": 10
+    },
+    "lisa.gillette@enron.com": {
+      "type": "recipient",
+      "email_count": 15
+    },
+    "mballases@hotmail.com": {
+      "type": "recipient",
+      "email_count": 27
+    },
+    "michael.walters@enron.com": {
+      "type": "recipient",
+      "email_count": 45
+    },
+    "neal.winfree@enron.com": {
+      "type": "recipient",
+      "email_count": 64
+    },
+    "shelleyzee@mail.utexas.edu": {
+      "type": "recipient",
+      "email_count": 8
+    },
+    "timothy.blanchard@enron.com": {
+      "type": "recipient",
+      "email_count": 125
+    },
+    "ami.chokshi@enron.com": {
+      "type": "recipient",
+      "email_count": 14
+    },
+    "dan.hyvl@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "todd.burke@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "barbara.lewis@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "heidi.withers@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "jason.bass2@compaq.com": {
+      "type": "recipient",
+      "email_count": 126
+    },
+    "dasparado@aol.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "david.baumbach@enron.com": {
+      "type": "recipient",
+      "email_count": 91
+    },
+    "harry.bucalo@enron.com": {
+      "type": "recipient",
+      "email_count": 32
+    },
+    "james_c_robertson@reliantenergy.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "matthew.lenhart@enron.com": {
+      "type": "recipient",
+      "email_count": 128
+    },
+    "phillip.love@enron.com": {
+      "type": "recipient",
+      "email_count": 73
+    },
+    "jeff.richter@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "denver.plachy@enron.com": {
+      "type": "recipient",
+      "email_count": 20
+    },
+    "jody.crook@enron.com": {
+      "type": "recipient",
+      "email_count": 10
+    },
+    "patrick.ryder@enron.com": {
+      "type": "recipient",
+      "email_count": 35
+    },
+    "chad.landry@enron.com": {
+      "type": "recipient",
+      "email_count": 50
+    },
+    "yvette.connevey@enron.com": {
+      "type": "recipient",
+      "email_count": 6
+    },
+    "judy.barnes@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "imelda.frayre@enron.com": {
+      "type": "recipient",
+      "email_count": 6
+    },
+    "tracey.irvin@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "kim.bolton@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "edward.gottlob@enron.com": {
+      "type": "recipient",
+      "email_count": 9
+    },
+    "bill.kyle@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "george.hope@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "deirdre.mccaffrey@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "shelliott@dttus.com": {
+      "type": "recipient",
+      "email_count": 5
+    },
+    "brettlawler@hotmail.com": {
+      "type": "recipient",
+      "email_count": 12
+    },
+    "daphneco64@aol.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "lwbthemarine@bigplanet.com": {
+      "type": "recipient",
+      "email_count": 73
+    },
+    "christa.winfrey@enron.com": {
+      "type": "recipient",
+      "email_count": 4
+    },
+    "carrie.southard@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "dan.feather@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "hector.campos@enron.com": {
+      "type": "recipient",
+      "email_count": 40
+    },
+    "lenine.jeganathan@enron.com": {
+      "type": "recipient",
+      "email_count": 18
+    },
+    "nick.hiemstra@enron.com": {
+      "type": "recipient",
+      "email_count": 21
+    },
+    "stephen.plauche@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "susan.smith@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "djack@keyad.com": {
+      "type": "recipient",
+      "email_count": 4
+    },
+    "gthorse@keyad.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "jackie.nelson@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "luis.mena@enron.com": {
+      "type": "recipient",
+      "email_count": 68
+    },
+    "michael.simmons@enron.com": {
+      "type": "recipient",
+      "email_count": 8
+    },
+    "paul.broderick@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "stephen.schwarzbach@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "karie.hastings@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "scott.mills@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "sean.kiehne@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "julie.meyers@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "chance.rabon@enron.com": {
+      "type": "recipient",
+      "email_count": 22
+    },
+    "don.black@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "selliott@dttus.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "pallen70@hotmail.com": {
+      "type": "recipient",
+      "email_count": 7
+    },
+    "tlmartin@dellnet.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "janet.wallis@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "danny.campbell@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "melissa.graves@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "steve.venturatos@enron.com": {
+      "type": "recipient",
+      "email_count": 43
+    },
+    "andrea.richards@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "dominator128@hotmail.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "janie.aguayo@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "daphneco64@bigplanet.com": {
+      "type": "recipient",
+      "email_count": 106
+    },
+    "dfranklin@hanovermeasurement.com": {
+      "type": "recipient",
+      "email_count": 9
+    },
+    "shanna.husser@enron.com": {
+      "type": "recipient",
+      "email_count": 128
+    },
+    "b.lawler@mail.utexas.edu": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "greg.couch@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "ina.rangel@enron.com": {
+      "type": "recipient",
+      "email_count": 5
+    },
+    "jim.schwieger@enron.com": {
+      "type": "recipient",
+      "email_count": 5
+    },
+    "thomas.martin@enron.com": {
+      "type": "recipient",
+      "email_count": 8
+    },
+    "jbass@stdauto.com": {
+      "type": "recipient",
+      "email_count": 13
+    },
+    "jacquestc@aol.com": {
+      "type": "recipient",
+      "email_count": 7
+    },
+    "mike.wellings@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "natalie.wells@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "gary.lamphier@enron.com": {
+      "type": "recipient",
+      "email_count": 38
+    },
+    "tori.kuykendall@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "melba.lozano@enron.com": {
+      "type": "recipient",
+      "email_count": 23
+    },
+    "robert.cass@enron.com": {
+      "type": "recipient",
+      "email_count": 16
+    },
+    "cbpres@austin.rr.com": {
+      "type": "recipient",
+      "email_count": 10
+    },
+    "llewter@austin.rr.com": {
+      "type": "recipient",
+      "email_count": 6
+    },
+    "dalton.hogan@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "matt.smith@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "mmmarcantel@equiva.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "susan.scott@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "information.management@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "jason.moore@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "del@living.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "james.wininger@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "zachary.mccarroll@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "direct@hpftd1.ftdi.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "robert.badeer@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "edie.leschber@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "craig.breslau@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "rlehmann@yahoo.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "laura.vuittonet@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "jsmith@austintx.com": {
+      "type": "recipient",
+      "email_count": 4
+    },
+    "jay.reitmeyer@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "djack@stic.net": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "greg.mcclendon@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "al.pollard@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "sferrarini@equiva.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "clickathome@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "amanda.huble@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "greg.martin@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "william.kelly@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "jim123@pdq.net": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "angela.collins@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "paul.lucci@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "mike.grigsby@enron.com": {
+      "type": "recipient",
+      "email_count": 5
+    },
+    "bnelson@situscos.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "jbass1@houston.rr.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "dirtyred2u@webtv.net": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "keith.holst@enron.com": {
+      "type": "recipient",
+      "email_count": 9
+    },
+    "stephanie.sever@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "barry.tycholiz@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "hkauffman@mail.utexas.edu": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "arsystem@mailman.enron.com": {
+      "type": "sender",
+      "email_count": 1
+    },
+    "phillip.k.allen@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "dale.neuner@enron.com": {
+      "type": "recipient",
+      "email_count": 9
+    },
+    "frank.ermis@enron.com": {
+      "type": "recipient",
+      "email_count": 4
+    },
+    "paul.burkhart@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "christopher.chenoweth@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "tara.piazze@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "chris.gaskill@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "faith.killen@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "body.shop@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "amir.ahanchian@enron.com": {
+      "type": "recipient",
+      "email_count": 13
+    },
+    "jeffrey.gossett@enron.com": {
+      "type": "recipient",
+      "email_count": 16
+    },
+    "kenneth.shulklapper@enron.com": {
+      "type": "recipient",
+      "email_count": 15
+    },
+    "micah.hatten@enron.com": {
+      "type": "recipient",
+      "email_count": 8
+    },
+    "lqcolombo@aol.com": {
+      "type": "recipient",
+      "email_count": 16
+    },
+    "colleen.sullivan@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "allison.easton@enron.com": {
+      "type": "recipient",
+      "email_count": 6
+    },
+    "laura.harder@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "acahanchian@zdnetonebox.com": {
+      "type": "recipient",
+      "email_count": 11
+    },
+    "frank.hayden@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "matt.motsinger@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "chris.walker@enron.com": {
+      "type": "recipient",
+      "email_count": 7
+    },
+    "community-relations@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "gary.taylor@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "stephen.harrington@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "jeanie.slone@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "daphneco64@yahoo.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "jackson.logan@enron.com": {
+      "type": "recipient",
+      "email_count": 5
+    },
+    "victor.guggenheim@enron.com": {
+      "type": "recipient",
+      "email_count": 5
+    },
+    "benjamin.markey@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "pallen@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "darron.giron@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "andrew_m_ozuna@mail.bankone.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "lodonnell@spbank.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "johnny.palmer@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "peter.keavey@enron.com": {
+      "type": "recipient",
+      "email_count": 5
+    },
+    "sunil.dalal@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "elsa.villarreal@enron.com": {
+      "type": "recipient",
+      "email_count": 3
+    },
+    "kevin.bosse@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "kyle.etter@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "stouchstone@natsource.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "daren.farmer@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "lauri.allen@enron.com": {
+      "type": "recipient",
+      "email_count": 2
+    },
+    "bdeck62@yahoo.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "mark.whitt@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "jason.wolfe@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "russ.whitton@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "gallen@thermon.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "neal.d.winfree@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "martin.cuilla@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "bridgette.anderson@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    },
+    "jonathan.gaskill@enron.com": {
+      "type": "recipient",
+      "email_count": 1
+    }
+  },
+  "edges": {
+    "('phillip.allen@enron.com', 'tim.belden@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-05-14 16:39:00-07:00",
+        "2001-02-13 05:45:00-08:00"
+      ],
+      "first_seen": "2001-02-13 05:45:00-08:00",
+      "last_seen": "2001-05-14 16:39:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'john.lavorato@enron.com')": {
+      "weight": 4,
+      "timestamps": [
+        "2001-05-04 13:51:00-07:00",
+        "2001-03-06 02:45:00-08:00",
+        "2001-02-20 00:46:00-08:00",
+        "2001-02-20 00:46:00-08:00"
+      ],
+      "first_seen": "2001-02-20 00:46:00-08:00",
+      "last_seen": "2001-05-04 13:51:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'buck.buckner@honeywell.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-10-16 06:42:00-07:00"
+      ],
+      "first_seen": "2000-10-16 06:42:00-07:00",
+      "last_seen": "2000-10-16 06:42:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'cooper.richey@enron.com')": {
+      "weight": 3,
+      "timestamps": [
+        "2000-08-16 05:35:00-07:00",
+        "2000-08-16 03:57:00-07:00",
+        "2000-08-15 05:37:00-07:00"
+      ],
+      "first_seen": "2000-08-15 05:37:00-07:00",
+      "last_seen": "2000-08-16 05:35:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'stagecoachmama@hotmail.com')": {
+      "weight": 10,
+      "timestamps": [
+        "2001-03-15 07:39:00-08:00",
+        "2001-03-14 23:11:00-08:00",
+        "2001-03-09 05:06:00-08:00",
+        "2001-02-24 01:24:00-08:00",
+        "2001-02-20 04:08:00-08:00",
+        "2001-02-15 07:13:00-08:00",
+        "2001-02-15 05:30:00-08:00",
+        "2000-11-29 08:22:00-08:00",
+        "2001-02-09 06:05:00-08:00",
+        "2001-02-08 23:21:00-08:00"
+      ],
+      "first_seen": "2000-11-29 08:22:00-08:00",
+      "last_seen": "2001-03-15 07:39:00-08:00"
+    },
+    "('eric.bass@enron.com', 'joanie.ngo@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-01-21 09:15:00-08:00",
+        "2000-01-21 09:15:00-08:00"
+      ],
+      "first_seen": "2000-01-21 09:15:00-08:00",
+      "last_seen": "2000-01-21 09:15:00-08:00"
+    },
+    "('eric.bass@enron.com', 'kyle.lilly@enron.com')": {
+      "weight": 7,
+      "timestamps": [
+        "2000-01-21 09:15:00-08:00",
+        "2000-01-21 01:54:00-08:00",
+        "2000-01-14 05:37:00-08:00",
+        "2000-01-06 09:32:00-08:00",
+        "2000-01-05 07:41:00-08:00",
+        "2000-01-05 07:41:00-08:00",
+        "1999-12-14 02:59:00-08:00"
+      ],
+      "first_seen": "1999-12-14 02:59:00-08:00",
+      "last_seen": "2000-01-21 09:15:00-08:00"
+    },
+    "('eric.bass@enron.com', 'brenda.herod@enron.com')": {
+      "weight": 9,
+      "timestamps": [
+        "2000-01-21 09:14:00-08:00",
+        "2000-01-19 08:12:00-08:00",
+        "2000-01-11 03:21:00-08:00",
+        "2000-01-11 03:21:00-08:00",
+        "2000-01-10 03:18:00-08:00",
+        "2000-01-07 07:44:00-08:00",
+        "2000-01-07 07:44:00-08:00",
+        "2001-01-04 07:20:00-08:00",
+        "2001-01-04 04:55:00-08:00"
+      ],
+      "first_seen": "2000-01-07 07:44:00-08:00",
+      "last_seen": "2001-01-04 07:20:00-08:00"
+    },
+    "('eric.bass@enron.com', 'brian.hoskins@enron.com')": {
+      "weight": 73,
+      "timestamps": [
+        "2000-01-21 07:15:00-08:00",
+        "2000-01-13 09:31:00-08:00",
+        "2000-01-12 01:35:00-08:00",
+        "2000-01-11 08:21:00-08:00",
+        "2000-01-10 06:53:00-08:00",
+        "2000-01-04 07:39:00-08:00",
+        "1999-12-27 00:51:00-08:00",
+        "2001-03-20 08:17:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2001-03-19 19:37:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-12 02:43:00-08:00",
+        "2001-03-20 14:49:00-08:00",
+        "2001-01-24 23:59:00-08:00",
+        "2001-01-24 03:26:00-08:00",
+        "2001-01-24 03:26:00-08:00",
+        "2001-01-24 03:11:00-08:00",
+        "2001-01-24 03:11:00-08:00",
+        "2001-01-23 02:17:00-08:00",
+        "2001-01-23 02:13:00-08:00",
+        "2001-01-23 02:03:00-08:00",
+        "2001-01-19 02:23:00-08:00",
+        "2001-01-12 02:32:00-08:00",
+        "2001-01-11 05:35:00-08:00",
+        "2001-01-10 06:11:00-08:00",
+        "2001-01-10 03:10:00-08:00",
+        "2001-01-09 03:01:00-08:00",
+        "2001-01-05 01:28:00-08:00",
+        "2001-03-20 19:17:00-08:00",
+        "2000-11-17 01:18:00-08:00",
+        "2000-11-17 00:30:00-08:00",
+        "2000-11-15 09:02:00-08:00",
+        "2000-11-15 03:02:00-08:00",
+        "2000-11-15 00:02:00-08:00",
+        "2000-11-13 07:28:00-08:00",
+        "2000-11-01 06:55:00-08:00",
+        "2000-10-30 02:16:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-23 01:26:00-07:00",
+        "2000-10-19 09:51:00-07:00",
+        "2000-10-17 02:48:00-07:00",
+        "2000-10-17 01:34:00-07:00",
+        "2000-10-17 01:23:00-07:00",
+        "2000-10-16 08:45:00-07:00",
+        "2000-10-12 03:01:00-07:00",
+        "2000-10-12 03:01:00-07:00",
+        "2000-10-11 01:45:00-07:00",
+        "2000-10-10 02:21:00-07:00",
+        "2000-10-10 01:06:00-07:00",
+        "2000-10-04 06:05:00-07:00",
+        "2000-10-02 03:33:00-07:00",
+        "2000-09-28 05:51:00-07:00",
+        "2000-09-28 05:51:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-27 01:25:00-07:00",
+        "2000-09-25 06:20:00-07:00",
+        "2000-09-21 09:28:00-07:00",
+        "2000-09-20 02:29:00-07:00",
+        "2000-09-20 02:29:00-07:00",
+        "2000-09-20 01:12:00-07:00",
+        "2000-09-18 07:04:00-07:00",
+        "2000-09-15 07:49:00-07:00",
+        "2000-09-13 01:22:00-07:00",
+        "2000-09-07 05:51:00-07:00",
+        "2000-09-06 03:51:00-07:00",
+        "2000-09-05 09:02:00-07:00",
+        "2000-09-05 08:38:00-07:00",
+        "2000-09-05 07:57:00-07:00",
+        "2000-08-31 05:06:00-07:00",
+        "2000-08-29 00:30:00-07:00",
+        "2000-08-25 06:15:00-07:00"
+      ],
+      "first_seen": "1999-12-27 00:51:00-08:00",
+      "last_seen": "2001-03-20 19:17:00-08:00"
+    },
+    "('eric.bass@enron.com', 'bryan.hull@enron.com')": {
+      "weight": 156,
+      "timestamps": [
+        "2000-01-21 07:15:00-08:00",
+        "2000-01-13 07:26:00-08:00",
+        "2000-01-12 01:35:00-08:00",
+        "2000-01-11 09:25:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-01-10 06:53:00-08:00",
+        "2000-01-06 06:17:00-08:00",
+        "2000-01-06 02:30:00-08:00",
+        "2000-12-06 01:56:00-08:00",
+        "1999-12-28 02:01:00-08:00",
+        "1999-12-28 01:05:00-08:00",
+        "1999-12-27 00:51:00-08:00",
+        "2000-12-06 00:57:00-08:00",
+        "1999-12-14 00:59:00-08:00",
+        "1999-12-13 06:35:00-08:00",
+        "1999-12-13 06:32:00-08:00",
+        "2001-04-09 04:57:00-07:00",
+        "2001-04-09 04:41:00-07:00",
+        "2001-04-04 06:25:00-07:00",
+        "2001-04-03 03:07:00-07:00",
+        "2001-03-30 06:36:00-08:00",
+        "2001-03-27 08:36:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2001-03-06 02:49:00-08:00",
+        "2001-03-19 19:37:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2001-02-27 03:51:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-20 01:56:00-08:00",
+        "2001-02-20 01:41:00-08:00",
+        "2001-02-14 07:45:00-08:00",
+        "2001-02-14 07:45:00-08:00",
+        "2001-02-13 01:16:00-08:00",
+        "2001-02-12 02:25:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 04:47:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 00:32:00-08:00",
+        "2001-02-07 00:03:00-08:00",
+        "2001-02-06 00:19:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-01-30 04:54:00-08:00",
+        "2001-03-20 14:49:00-08:00",
+        "2001-01-26 02:12:00-08:00",
+        "2001-01-24 23:59:00-08:00",
+        "2000-11-29 08:41:00-08:00",
+        "2001-01-18 03:22:00-08:00",
+        "2001-01-18 03:22:00-08:00",
+        "2000-11-28 01:49:00-08:00",
+        "2001-01-11 05:35:00-08:00",
+        "2001-01-10 03:10:00-08:00",
+        "2001-01-05 03:54:00-08:00",
+        "2001-01-05 03:10:00-08:00",
+        "2001-01-05 03:06:00-08:00",
+        "2001-01-05 01:28:00-08:00",
+        "2001-01-04 07:20:00-08:00",
+        "2001-01-04 07:20:00-08:00",
+        "2001-01-04 06:47:00-08:00",
+        "2001-01-04 04:55:00-08:00",
+        "2001-01-04 04:55:00-08:00",
+        "2001-01-04 04:28:00-08:00",
+        "2001-01-03 08:49:00-08:00",
+        "2001-01-03 08:34:00-08:00",
+        "2001-01-03 08:29:00-08:00",
+        "2001-01-03 08:29:00-08:00",
+        "2001-01-03 08:08:00-08:00",
+        "2001-01-03 08:08:00-08:00",
+        "2001-01-03 08:06:00-08:00",
+        "2001-01-03 08:06:00-08:00",
+        "2001-01-03 03:41:00-08:00",
+        "2001-01-03 03:41:00-08:00",
+        "2001-01-03 01:56:00-08:00",
+        "2001-01-03 00:29:00-08:00",
+        "2000-12-21 06:15:00-08:00",
+        "2000-12-21 05:54:00-08:00",
+        "2000-12-21 05:04:00-08:00",
+        "2000-12-21 02:26:00-08:00",
+        "2000-12-21 02:26:00-08:00",
+        "2000-12-20 07:29:00-08:00",
+        "2000-11-17 00:30:00-08:00",
+        "2000-11-13 07:28:00-08:00",
+        "2000-11-07 02:07:00-08:00",
+        "2000-11-06 08:22:00-08:00",
+        "2000-11-02 02:23:00-08:00",
+        "2000-11-02 02:01:00-08:00",
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-10-31 02:36:00-08:00",
+        "2000-10-31 00:25:00-08:00",
+        "2000-10-31 00:21:00-08:00",
+        "2000-10-31 00:01:00-08:00",
+        "2000-10-30 03:22:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-26 03:20:00-07:00",
+        "2000-10-26 03:13:00-07:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-10-17 05:53:00-07:00",
+        "2000-10-17 03:45:00-07:00",
+        "2000-10-17 03:45:00-07:00",
+        "2000-10-17 03:29:00-07:00",
+        "2000-10-17 03:29:00-07:00",
+        "2001-03-27 19:36:00-08:00",
+        "2000-10-16 06:30:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-10-16 01:06:00-07:00",
+        "2000-10-10 06:10:00-07:00",
+        "2000-10-06 05:06:00-07:00",
+        "2000-10-06 03:39:00-07:00",
+        "2000-10-06 00:45:00-07:00",
+        "2000-10-02 03:43:00-07:00",
+        "2000-10-02 03:34:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2001-03-30 17:36:00-08:00",
+        "2000-09-26 03:59:00-07:00",
+        "2000-09-26 03:19:00-07:00",
+        "2000-09-25 07:49:00-07:00",
+        "2000-09-25 03:10:00-07:00",
+        "2000-09-21 07:50:00-07:00",
+        "2000-09-21 07:05:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2001-04-03 13:07:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2001-04-04 16:25:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2000-09-13 01:22:00-07:00",
+        "2000-09-08 04:06:00-07:00",
+        "2001-04-09 14:41:00-07:00",
+        "2000-09-08 04:06:00-07:00",
+        "2001-04-09 14:57:00-07:00",
+        "2000-09-07 03:21:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-06 03:51:00-07:00",
+        "2000-09-05 08:38:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-09-05 01:15:00-07:00",
+        "2000-09-05 01:15:00-07:00",
+        "2000-08-31 05:10:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-28 07:06:00-07:00"
+      ],
+      "first_seen": "1999-12-13 06:32:00-08:00",
+      "last_seen": "2001-04-09 14:57:00-07:00"
+    },
+    "('eric.bass@enron.com', 'danielles@jonesgranger.com')": {
+      "weight": 10,
+      "timestamps": [
+        "2000-01-21 07:15:00-08:00",
+        "2000-01-21 05:31:00-08:00",
+        "2000-01-21 02:24:00-08:00",
+        "2000-01-21 02:15:00-08:00",
+        "2000-01-21 01:54:00-08:00",
+        "2000-01-10 08:05:00-08:00",
+        "2000-01-10 07:50:00-08:00",
+        "1999-12-30 07:39:00-08:00",
+        "1999-12-14 05:23:00-08:00",
+        "1999-12-14 01:40:00-08:00"
+      ],
+      "first_seen": "1999-12-14 01:40:00-08:00",
+      "last_seen": "2000-01-21 07:15:00-08:00"
+    },
+    "('eric.bass@enron.com', 'lisa.gillette@enron.com')": {
+      "weight": 15,
+      "timestamps": [
+        "2000-01-21 07:15:00-08:00",
+        "2000-01-20 08:28:00-08:00",
+        "2000-01-12 09:26:00-08:00",
+        "2000-01-12 09:07:00-08:00",
+        "2000-01-10 06:53:00-08:00",
+        "2000-01-07 07:48:00-08:00",
+        "2000-01-07 07:48:00-08:00",
+        "2000-01-07 07:40:00-08:00",
+        "2000-01-07 05:57:00-08:00",
+        "2000-01-06 01:18:00-08:00",
+        "2001-04-05 07:45:00-07:00",
+        "2001-03-01 02:51:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2000-11-17 00:30:00-08:00",
+        "2001-04-05 17:45:00-07:00"
+      ],
+      "first_seen": "2000-01-06 01:18:00-08:00",
+      "last_seen": "2001-04-05 17:45:00-07:00"
+    },
+    "('eric.bass@enron.com', 'mballases@hotmail.com')": {
+      "weight": 27,
+      "timestamps": [
+        "2000-01-21 07:15:00-08:00",
+        "2001-02-07 00:35:00-08:00",
+        "2001-03-20 14:49:00-08:00",
+        "2001-01-11 05:35:00-08:00",
+        "2001-01-09 00:10:00-08:00",
+        "2000-11-06 08:22:00-08:00",
+        "2000-11-06 02:07:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-23 01:26:00-07:00",
+        "2000-10-19 09:51:00-07:00",
+        "2000-10-18 02:38:00-07:00",
+        "2000-10-17 02:48:00-07:00",
+        "2000-10-12 08:36:00-07:00",
+        "2000-10-12 01:33:00-07:00",
+        "2000-10-06 05:06:00-07:00",
+        "2000-10-06 01:23:00-07:00",
+        "2000-10-05 03:33:00-07:00",
+        "2000-10-05 01:20:00-07:00",
+        "2000-10-04 01:16:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-28 01:09:00-07:00",
+        "2000-09-27 02:54:00-07:00",
+        "2000-09-21 07:50:00-07:00",
+        "2000-09-21 05:54:00-07:00",
+        "2000-09-21 01:17:00-07:00",
+        "2000-08-31 05:06:00-07:00",
+        "2000-08-30 02:33:00-07:00"
+      ],
+      "first_seen": "2000-01-21 07:15:00-08:00",
+      "last_seen": "2001-03-20 14:49:00-08:00"
+    },
+    "('eric.bass@enron.com', 'michael.walters@enron.com')": {
+      "weight": 45,
+      "timestamps": [
+        "2000-01-21 07:15:00-08:00",
+        "2000-01-20 01:31:00-08:00",
+        "2000-01-20 01:31:00-08:00",
+        "2000-01-13 07:26:00-08:00",
+        "2000-12-06 03:14:00-08:00",
+        "2000-12-06 03:14:00-08:00",
+        "2000-01-12 01:35:00-08:00",
+        "2000-01-11 09:25:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-01-06 02:30:00-08:00",
+        "1999-12-28 02:01:00-08:00",
+        "1999-12-27 00:51:00-08:00",
+        "1999-12-13 06:35:00-08:00",
+        "1999-12-13 06:32:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-01-24 06:06:00-08:00",
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-10-31 00:25:00-08:00",
+        "2000-10-31 00:21:00-08:00",
+        "2000-10-31 00:01:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-10-16 06:30:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-18 05:13:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-08-31 05:10:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-29 00:44:00-07:00",
+        "2000-08-28 07:06:00-07:00"
+      ],
+      "first_seen": "1999-12-13 06:32:00-08:00",
+      "last_seen": "2001-02-23 01:13:00-08:00"
+    },
+    "('eric.bass@enron.com', 'neal.winfree@enron.com')": {
+      "weight": 64,
+      "timestamps": [
+        "2000-01-21 07:15:00-08:00",
+        "2000-12-06 03:14:00-08:00",
+        "2000-12-06 03:14:00-08:00",
+        "2000-01-12 01:35:00-08:00",
+        "2000-01-11 09:25:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-01-06 02:30:00-08:00",
+        "1999-12-28 02:01:00-08:00",
+        "1999-12-28 01:05:00-08:00",
+        "1999-12-27 00:51:00-08:00",
+        "1999-12-13 06:35:00-08:00",
+        "1999-12-13 06:32:00-08:00",
+        "2001-03-26 02:33:00-08:00",
+        "2001-03-26 02:33:00-08:00",
+        "2001-03-19 19:37:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-07 00:35:00-08:00",
+        "2001-01-24 02:26:00-08:00",
+        "2001-03-26 13:33:00-08:00",
+        "2001-03-26 13:33:00-08:00",
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-10-31 02:36:00-08:00",
+        "2000-10-31 00:38:00-08:00",
+        "2000-10-31 00:25:00-08:00",
+        "2000-10-31 00:21:00-08:00",
+        "2000-10-31 00:01:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-24 01:21:00-07:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-10-16 06:30:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-09-29 01:46:00-07:00",
+        "2000-09-29 01:39:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2000-09-21 01:20:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-13 10:31:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2000-09-13 01:22:00-07:00",
+        "2000-09-08 03:21:00-07:00",
+        "2000-09-08 03:08:00-07:00",
+        "2000-09-07 08:27:00-07:00",
+        "2000-09-07 07:57:00-07:00",
+        "2000-09-07 05:36:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-05 05:06:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-08-31 05:10:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-29 04:04:00-07:00",
+        "2000-08-29 04:03:00-07:00",
+        "2000-08-29 00:50:00-07:00",
+        "2000-08-28 07:06:00-07:00",
+        "2000-08-28 01:48:00-07:00"
+      ],
+      "first_seen": "1999-12-13 06:32:00-08:00",
+      "last_seen": "2001-03-26 13:33:00-08:00"
+    },
+    "('eric.bass@enron.com', 'shelleyzee@mail.utexas.edu')": {
+      "weight": 8,
+      "timestamps": [
+        "2000-01-21 07:15:00-08:00",
+        "2000-01-10 08:05:00-08:00",
+        "1999-12-13 06:32:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-08-31 09:40:00-07:00",
+        "2000-08-31 05:06:00-07:00",
+        "2000-08-30 02:33:00-07:00"
+      ],
+      "first_seen": "1999-12-13 06:32:00-08:00",
+      "last_seen": "2000-10-30 01:37:00-08:00"
+    },
+    "('eric.bass@enron.com', 'timothy.blanchard@enron.com')": {
+      "weight": 125,
+      "timestamps": [
+        "2000-01-21 07:15:00-08:00",
+        "2000-01-12 01:35:00-08:00",
+        "2000-01-10 08:05:00-08:00",
+        "2000-01-10 07:46:00-08:00",
+        "2000-01-10 06:53:00-08:00",
+        "2000-01-07 07:48:00-08:00",
+        "1999-12-27 00:51:00-08:00",
+        "2000-12-06 00:57:00-08:00",
+        "2001-04-09 04:41:00-07:00",
+        "2001-04-02 03:25:00-07:00",
+        "2001-03-21 05:36:00-08:00",
+        "2001-03-21 03:33:00-08:00",
+        "2000-12-04 09:01:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2001-03-19 19:37:00-08:00",
+        "2000-12-04 07:18:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-22 09:11:00-08:00",
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-14 07:45:00-08:00",
+        "2001-02-12 03:36:00-08:00",
+        "2001-02-12 02:25:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 04:47:00-08:00",
+        "2001-02-08 02:19:00-08:00",
+        "2001-02-07 23:52:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 00:03:00-08:00",
+        "2001-02-06 06:27:00-08:00",
+        "2001-02-06 00:19:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-03-20 14:49:00-08:00",
+        "2001-01-26 02:12:00-08:00",
+        "2001-01-24 23:59:00-08:00",
+        "2001-01-24 08:45:00-08:00",
+        "2000-11-29 08:41:00-08:00",
+        "2001-01-18 03:22:00-08:00",
+        "2001-01-18 03:22:00-08:00",
+        "2001-01-12 01:05:00-08:00",
+        "2001-01-11 05:35:00-08:00",
+        "2001-01-10 03:10:00-08:00",
+        "2000-11-28 01:03:00-08:00",
+        "2001-01-05 02:05:00-08:00",
+        "2001-01-05 01:28:00-08:00",
+        "2001-01-04 07:20:00-08:00",
+        "2001-01-04 07:20:00-08:00",
+        "2001-01-04 06:47:00-08:00",
+        "2001-01-04 04:55:00-08:00",
+        "2001-01-04 04:55:00-08:00",
+        "2001-01-04 04:28:00-08:00",
+        "2001-01-03 08:49:00-08:00",
+        "2001-01-03 08:34:00-08:00",
+        "2001-01-03 08:34:00-08:00",
+        "2001-01-03 08:29:00-08:00",
+        "2001-01-03 08:29:00-08:00",
+        "2001-01-03 08:08:00-08:00",
+        "2001-01-03 08:06:00-08:00",
+        "2001-03-21 14:33:00-08:00",
+        "2000-11-17 01:05:00-08:00",
+        "2000-11-17 00:48:00-08:00",
+        "2000-11-17 00:30:00-08:00",
+        "2001-03-21 16:36:00-08:00",
+        "2000-11-15 09:02:00-08:00",
+        "2000-11-15 03:02:00-08:00",
+        "2000-11-15 00:02:00-08:00",
+        "2000-11-13 07:28:00-08:00",
+        "2000-11-06 08:22:00-08:00",
+        "2000-11-06 02:07:00-08:00",
+        "2000-11-02 02:01:00-08:00",
+        "2000-11-01 06:55:00-08:00",
+        "2000-10-30 05:42:00-08:00",
+        "2000-10-30 02:42:00-08:00",
+        "2000-10-30 02:39:00-08:00",
+        "2000-10-30 02:32:00-08:00",
+        "2000-10-30 02:16:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-23 01:26:00-07:00",
+        "2000-10-20 01:15:00-07:00",
+        "2000-10-19 09:51:00-07:00",
+        "2000-10-18 03:59:00-07:00",
+        "2000-10-17 03:08:00-07:00",
+        "2000-10-17 01:23:00-07:00",
+        "2000-10-12 09:40:00-07:00",
+        "2000-10-12 04:25:00-07:00",
+        "2000-10-11 02:22:00-07:00",
+        "2000-10-10 06:10:00-07:00",
+        "2000-10-10 02:21:00-07:00",
+        "2000-10-06 05:06:00-07:00",
+        "2000-10-04 06:05:00-07:00",
+        "2000-10-04 01:14:00-07:00",
+        "2000-10-03 09:55:00-07:00",
+        "2000-10-02 03:33:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-27 06:05:00-07:00",
+        "2000-09-27 01:25:00-07:00",
+        "2000-09-26 07:44:00-07:00",
+        "2000-09-25 06:20:00-07:00",
+        "2000-09-25 03:10:00-07:00",
+        "2001-04-02 13:25:00-07:00",
+        "2000-09-21 07:50:00-07:00",
+        "2000-09-20 02:29:00-07:00",
+        "2000-09-20 01:12:00-07:00",
+        "2000-09-18 07:04:00-07:00",
+        "2000-09-13 01:22:00-07:00",
+        "2001-04-09 14:41:00-07:00",
+        "2000-09-07 04:03:00-07:00",
+        "2000-09-07 03:21:00-07:00",
+        "2000-09-07 03:20:00-07:00",
+        "2000-09-07 03:05:00-07:00",
+        "2000-09-06 03:51:00-07:00",
+        "2000-09-05 08:38:00-07:00",
+        "2000-09-05 07:57:00-07:00",
+        "2000-09-05 01:15:00-07:00",
+        "2000-09-05 01:15:00-07:00",
+        "2000-08-31 05:06:00-07:00",
+        "2000-08-25 06:16:00-07:00"
+      ],
+      "first_seen": "1999-12-27 00:51:00-08:00",
+      "last_seen": "2001-04-09 14:41:00-07:00"
+    },
+    "('eric.bass@enron.com', 'ami.chokshi@enron.com')": {
+      "weight": 14,
+      "timestamps": [
+        "2000-01-21 02:18:00-08:00",
+        "2000-01-13 06:49:00-08:00",
+        "2000-01-13 02:23:00-08:00",
+        "2000-01-12 01:35:00-08:00",
+        "2000-01-06 10:37:00-08:00",
+        "2000-01-06 09:32:00-08:00",
+        "2000-01-05 08:01:00-08:00",
+        "2000-01-05 07:41:00-08:00",
+        "2000-10-12 01:33:00-07:00",
+        "2000-10-06 01:23:00-07:00",
+        "2000-10-05 01:20:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-28 01:09:00-07:00",
+        "2000-09-21 01:17:00-07:00"
+      ],
+      "first_seen": "2000-01-05 07:41:00-08:00",
+      "last_seen": "2000-10-12 01:33:00-07:00"
+    },
+    "('eric.bass@enron.com', 'dan.hyvl@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-12-06 05:36:00-08:00",
+        "2000-12-05 06:44:00-08:00"
+      ],
+      "first_seen": "2000-12-05 06:44:00-08:00",
+      "last_seen": "2000-12-06 05:36:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'todd.burke@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-15 06:45:00-08:00"
+      ],
+      "first_seen": "2001-03-15 06:45:00-08:00",
+      "last_seen": "2001-03-15 06:45:00-08:00"
+    },
+    "('eric.bass@enron.com', 'barbara.lewis@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-01-20 05:05:00-08:00",
+        "2000-09-28 09:27:00-07:00"
+      ],
+      "first_seen": "2000-01-20 05:05:00-08:00",
+      "last_seen": "2000-09-28 09:27:00-07:00"
+    },
+    "('eric.bass@enron.com', 'heidi.withers@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-01-20 02:32:00-08:00",
+        "2000-01-20 01:31:00-08:00"
+      ],
+      "first_seen": "2000-01-20 01:31:00-08:00",
+      "last_seen": "2000-01-20 02:32:00-08:00"
+    },
+    "('eric.bass@enron.com', 'jason.bass2@compaq.com')": {
+      "weight": 126,
+      "timestamps": [
+        "2000-01-20 01:07:00-08:00",
+        "2000-01-13 07:26:00-08:00",
+        "2000-01-10 08:05:00-08:00",
+        "2000-12-06 00:33:00-08:00",
+        "2000-12-05 23:39:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-15 02:36:00-08:00",
+        "2001-02-15 01:33:00-08:00",
+        "2001-02-15 01:11:00-08:00",
+        "2000-12-04 03:14:00-08:00",
+        "2001-02-14 05:20:00-08:00",
+        "2000-12-04 03:13:00-08:00",
+        "2000-12-04 02:18:00-08:00",
+        "2001-01-26 02:12:00-08:00",
+        "2001-01-18 04:26:00-08:00",
+        "2001-01-17 01:17:00-08:00",
+        "2001-01-17 01:08:00-08:00",
+        "2001-01-12 01:12:00-08:00",
+        "2000-11-28 01:32:00-08:00",
+        "2001-01-11 05:35:00-08:00",
+        "2001-01-11 05:32:00-08:00",
+        "2001-01-11 03:26:00-08:00",
+        "2001-01-10 00:20:00-08:00",
+        "2001-01-10 00:14:00-08:00",
+        "2000-11-28 01:23:00-08:00",
+        "2001-01-05 06:08:00-08:00",
+        "2001-01-05 03:51:00-08:00",
+        "2001-01-05 03:24:00-08:00",
+        "2001-01-05 03:09:00-08:00",
+        "2000-12-27 01:48:00-08:00",
+        "2000-12-21 00:31:00-08:00",
+        "2000-12-20 02:54:00-08:00",
+        "2000-11-21 03:50:00-08:00",
+        "2000-12-20 00:03:00-08:00",
+        "2000-12-19 00:09:00-08:00",
+        "2000-12-18 08:00:00-08:00",
+        "2000-12-18 06:45:00-08:00",
+        "2000-11-17 01:59:00-08:00",
+        "2000-11-17 00:48:00-08:00",
+        "2000-11-16 23:57:00-08:00",
+        "2000-11-15 08:44:00-08:00",
+        "2000-11-15 03:02:00-08:00",
+        "2000-11-14 07:09:00-08:00",
+        "2000-11-14 01:39:00-08:00",
+        "2000-11-08 08:33:00-08:00",
+        "2000-11-06 08:22:00-08:00",
+        "2000-11-06 05:23:00-08:00",
+        "2000-11-06 02:07:00-08:00",
+        "2000-11-06 01:03:00-08:00",
+        "2000-11-03 05:24:00-08:00",
+        "2000-11-03 00:37:00-08:00",
+        "2000-11-02 07:32:00-08:00",
+        "2000-11-01 04:34:00-08:00",
+        "2000-11-01 03:00:00-08:00",
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-10-27 03:23:00-07:00",
+        "2000-10-27 01:37:00-07:00",
+        "2000-07-19 07:49:00-07:00",
+        "2000-10-23 10:11:00-07:00",
+        "2000-10-23 10:11:00-07:00",
+        "2000-10-19 09:51:00-07:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-10-18 06:58:00-07:00",
+        "2000-10-17 02:48:00-07:00",
+        "2000-10-12 04:04:00-07:00",
+        "2000-10-12 01:23:00-07:00",
+        "2000-10-11 03:56:00-07:00",
+        "2000-10-11 02:22:00-07:00",
+        "2000-10-09 06:39:00-07:00",
+        "2000-10-06 01:23:00-07:00",
+        "2000-10-02 03:16:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-28 01:11:00-07:00",
+        "2000-09-27 05:23:00-07:00",
+        "2000-09-27 05:22:00-07:00",
+        "2000-09-27 02:54:00-07:00",
+        "2000-09-26 06:08:00-07:00",
+        "2000-09-26 06:07:00-07:00",
+        "2000-09-26 05:43:00-07:00",
+        "2000-09-26 05:39:00-07:00",
+        "2000-09-26 02:56:00-07:00",
+        "2000-09-25 02:47:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2000-09-21 03:49:00-07:00",
+        "2000-09-21 03:25:00-07:00",
+        "2000-09-21 02:15:00-07:00",
+        "2000-09-21 02:00:00-07:00",
+        "2000-09-21 01:53:00-07:00",
+        "2000-09-20 09:44:00-07:00",
+        "2000-09-20 05:41:00-07:00",
+        "2000-09-20 05:23:00-07:00",
+        "2000-09-20 05:05:00-07:00",
+        "2000-09-20 03:43:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-19 03:48:00-07:00",
+        "2000-09-19 01:58:00-07:00",
+        "2000-09-19 01:41:00-07:00",
+        "2000-09-19 01:33:00-07:00",
+        "2000-09-18 05:13:00-07:00",
+        "2000-09-15 03:26:00-07:00",
+        "2000-09-13 06:49:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2000-09-12 09:09:00-07:00",
+        "2000-09-12 08:52:00-07:00",
+        "2000-09-12 08:48:00-07:00",
+        "2000-09-12 07:11:00-07:00",
+        "2000-09-12 02:39:00-07:00",
+        "2000-09-12 02:39:00-07:00",
+        "2000-09-12 02:32:00-07:00",
+        "2000-09-12 02:32:00-07:00",
+        "2000-09-11 04:39:00-07:00",
+        "2000-09-07 06:11:00-07:00",
+        "2000-09-07 05:46:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-06 01:35:00-07:00",
+        "2000-09-05 05:00:00-07:00",
+        "2000-09-05 03:45:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-08-31 05:10:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-29 00:47:00-07:00",
+        "2000-08-28 07:06:00-07:00"
+      ],
+      "first_seen": "2000-01-10 08:05:00-08:00",
+      "last_seen": "2001-02-23 01:13:00-08:00"
+    },
+    "('eric.bass@enron.com', 'dasparado@aol.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-13 07:26:00-08:00"
+      ],
+      "first_seen": "2000-01-13 07:26:00-08:00",
+      "last_seen": "2000-01-13 07:26:00-08:00"
+    },
+    "('eric.bass@enron.com', 'david.baumbach@enron.com')": {
+      "weight": 91,
+      "timestamps": [
+        "2000-01-13 07:26:00-08:00",
+        "2000-12-06 03:14:00-08:00",
+        "2000-12-06 03:14:00-08:00",
+        "2000-01-12 01:35:00-08:00",
+        "2000-01-11 09:25:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-01-10 08:05:00-08:00",
+        "2000-01-10 03:18:00-08:00",
+        "2000-01-06 02:30:00-08:00",
+        "2000-01-04 07:39:00-08:00",
+        "1999-12-28 02:01:00-08:00",
+        "1999-12-28 01:05:00-08:00",
+        "1999-12-27 00:51:00-08:00",
+        "1999-12-14 00:59:00-08:00",
+        "1999-12-13 06:32:00-08:00",
+        "2001-04-09 04:41:00-07:00",
+        "2001-03-26 02:33:00-08:00",
+        "2001-03-26 02:33:00-08:00",
+        "2001-03-08 01:09:00-08:00",
+        "2001-03-19 19:37:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-12 08:20:00-08:00",
+        "2001-02-12 02:25:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 04:47:00-08:00",
+        "2000-12-04 00:57:00-08:00",
+        "2001-02-07 01:06:00-08:00",
+        "2001-02-07 00:35:00-08:00",
+        "2000-12-01 00:43:00-08:00",
+        "2001-01-26 00:03:00-08:00",
+        "2001-01-25 04:10:00-08:00",
+        "2001-01-25 03:53:00-08:00",
+        "2000-11-29 08:41:00-08:00",
+        "2001-01-22 06:08:00-08:00",
+        "2001-01-10 03:05:00-08:00",
+        "2001-01-08 01:22:00-08:00",
+        "2001-01-04 07:20:00-08:00",
+        "2001-01-04 07:20:00-08:00",
+        "2001-01-04 06:47:00-08:00",
+        "2001-01-04 04:55:00-08:00",
+        "2001-01-04 04:55:00-08:00",
+        "2001-01-04 04:28:00-08:00",
+        "2001-01-04 03:10:00-08:00",
+        "2000-12-28 01:35:00-08:00",
+        "2000-11-27 02:44:00-08:00",
+        "2000-12-28 01:16:00-08:00",
+        "2000-12-26 04:27:00-08:00",
+        "2000-12-26 02:20:00-08:00",
+        "2000-11-14 02:23:00-08:00",
+        "2001-03-26 13:33:00-08:00",
+        "2001-03-26 13:33:00-08:00",
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-10-31 02:36:00-08:00",
+        "2000-10-31 00:25:00-08:00",
+        "2000-10-31 00:21:00-08:00",
+        "2000-10-31 00:01:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-07-13 03:37:00-07:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-19 06:15:00-07:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-10-19 03:18:00-07:00",
+        "2000-10-16 06:30:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-21 07:05:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-19 02:22:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2000-09-13 01:22:00-07:00",
+        "2001-04-09 14:41:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-08-31 05:10:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-30 05:07:00-07:00",
+        "2000-08-30 04:39:00-07:00",
+        "2000-08-30 04:01:00-07:00",
+        "2000-08-30 03:04:00-07:00",
+        "2000-08-28 07:06:00-07:00"
+      ],
+      "first_seen": "1999-12-13 06:32:00-08:00",
+      "last_seen": "2001-04-09 14:41:00-07:00"
+    },
+    "('eric.bass@enron.com', 'harry.bucalo@enron.com')": {
+      "weight": 32,
+      "timestamps": [
+        "2000-01-13 07:26:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-10-31 00:25:00-08:00",
+        "2000-10-31 00:21:00-08:00",
+        "2000-10-31 00:01:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-10-16 06:30:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-26 03:25:00-07:00",
+        "2000-09-25 03:10:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-13 08:42:00-07:00",
+        "2000-09-13 07:24:00-07:00",
+        "2000-09-13 06:49:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-28 07:06:00-07:00"
+      ],
+      "first_seen": "2000-01-13 07:26:00-08:00",
+      "last_seen": "2000-12-06 02:58:00-08:00"
+    },
+    "('eric.bass@enron.com', 'james_c_robertson@reliantenergy.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-13 07:26:00-08:00"
+      ],
+      "first_seen": "2000-01-13 07:26:00-08:00",
+      "last_seen": "2000-01-13 07:26:00-08:00"
+    },
+    "('eric.bass@enron.com', 'matthew.lenhart@enron.com')": {
+      "weight": 128,
+      "timestamps": [
+        "2000-01-13 07:26:00-08:00",
+        "2000-01-12 01:35:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-12-06 02:58:00-08:00",
+        "2000-01-10 08:05:00-08:00",
+        "2000-01-10 06:53:00-08:00",
+        "2000-01-07 00:55:00-08:00",
+        "1999-12-27 00:51:00-08:00",
+        "2000-12-06 00:57:00-08:00",
+        "1999-12-13 06:32:00-08:00",
+        "2001-04-09 04:41:00-07:00",
+        "2000-12-04 08:46:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2001-03-19 19:37:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2001-03-01 01:55:00-08:00",
+        "2001-03-01 01:55:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-12 03:37:00-08:00",
+        "2001-02-12 02:25:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 04:47:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 00:03:00-08:00",
+        "2001-02-06 00:19:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-03-20 14:49:00-08:00",
+        "2001-01-26 02:12:00-08:00",
+        "2001-01-24 23:59:00-08:00",
+        "2000-11-29 08:41:00-08:00",
+        "2001-01-18 03:22:00-08:00",
+        "2001-01-18 03:22:00-08:00",
+        "2001-01-11 05:35:00-08:00",
+        "2001-01-10 03:10:00-08:00",
+        "2000-11-28 01:03:00-08:00",
+        "2001-01-05 01:28:00-08:00",
+        "2001-01-03 08:49:00-08:00",
+        "2001-01-03 08:34:00-08:00",
+        "2001-01-03 08:34:00-08:00",
+        "2001-01-03 08:29:00-08:00",
+        "2001-01-03 08:08:00-08:00",
+        "2001-01-03 08:08:00-08:00",
+        "2001-01-03 08:06:00-08:00",
+        "2001-01-03 08:06:00-08:00",
+        "2001-01-03 03:41:00-08:00",
+        "2001-01-03 00:29:00-08:00",
+        "2000-12-21 02:26:00-08:00",
+        "2000-12-21 02:26:00-08:00",
+        "2000-12-20 07:29:00-08:00",
+        "2000-11-17 00:30:00-08:00",
+        "2000-11-15 09:02:00-08:00",
+        "2000-11-15 03:02:00-08:00",
+        "2000-11-15 00:02:00-08:00",
+        "2000-11-13 07:28:00-08:00",
+        "2000-11-06 08:22:00-08:00",
+        "2000-11-06 02:07:00-08:00",
+        "2000-11-02 02:01:00-08:00",
+        "2000-11-01 06:55:00-08:00",
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-10-31 02:36:00-08:00",
+        "2000-10-31 00:25:00-08:00",
+        "2000-10-31 00:21:00-08:00",
+        "2000-10-31 00:01:00-08:00",
+        "2000-10-30 02:42:00-08:00",
+        "2000-10-30 02:39:00-08:00",
+        "2000-10-30 02:16:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-23 01:26:00-07:00",
+        "2000-10-20 01:15:00-07:00",
+        "2000-10-19 09:51:00-07:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-10-17 03:08:00-07:00",
+        "2000-10-17 01:23:00-07:00",
+        "2000-10-12 09:40:00-07:00",
+        "2000-10-12 04:25:00-07:00",
+        "2000-10-11 02:22:00-07:00",
+        "2000-10-10 06:10:00-07:00",
+        "2000-10-10 02:21:00-07:00",
+        "2000-10-06 05:06:00-07:00",
+        "2000-10-04 06:05:00-07:00",
+        "2000-10-02 03:33:00-07:00",
+        "2000-09-28 09:27:00-07:00",
+        "2000-09-28 09:27:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-27 06:05:00-07:00",
+        "2000-09-27 01:25:00-07:00",
+        "2000-09-25 06:20:00-07:00",
+        "2000-09-25 03:10:00-07:00",
+        "2000-09-21 07:50:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2000-09-20 02:29:00-07:00",
+        "2000-09-20 01:12:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-18 07:28:00-07:00",
+        "2000-09-18 07:04:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2000-09-13 01:22:00-07:00",
+        "2001-04-09 14:41:00-07:00",
+        "2000-09-07 03:21:00-07:00",
+        "2000-09-07 03:20:00-07:00",
+        "2000-09-07 03:20:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-06 03:51:00-07:00",
+        "2001-04-09 18:28:00-07:00",
+        "2000-09-05 09:44:00-07:00",
+        "2000-09-05 09:03:00-07:00",
+        "2000-09-05 08:38:00-07:00",
+        "2000-09-05 07:57:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-09-05 01:15:00-07:00",
+        "2000-09-05 01:15:00-07:00",
+        "2000-08-31 05:06:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-30 02:33:00-07:00",
+        "2000-08-28 07:06:00-07:00",
+        "2000-08-25 00:57:00-07:00"
+      ],
+      "first_seen": "1999-12-13 06:32:00-08:00",
+      "last_seen": "2001-04-09 18:28:00-07:00"
+    },
+    "('eric.bass@enron.com', 'phillip.love@enron.com')": {
+      "weight": 73,
+      "timestamps": [
+        "2000-01-13 07:26:00-08:00",
+        "2000-01-12 01:35:00-08:00",
+        "1999-12-27 00:51:00-08:00",
+        "1999-12-15 03:07:00-08:00",
+        "1999-12-13 06:32:00-08:00",
+        "2001-04-09 04:41:00-07:00",
+        "2001-03-26 02:33:00-08:00",
+        "2001-03-26 02:17:00-08:00",
+        "2001-03-19 19:37:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-12 02:25:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 04:47:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 00:03:00-08:00",
+        "2001-02-06 00:19:00-08:00",
+        "2001-01-30 08:28:00-08:00",
+        "2001-01-30 06:45:00-08:00",
+        "2001-01-30 06:29:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-01-17 23:58:00-08:00",
+        "2001-01-17 23:45:00-08:00",
+        "2001-01-17 08:56:00-08:00",
+        "2001-01-05 03:54:00-08:00",
+        "2000-12-26 03:40:00-08:00",
+        "2000-11-15 00:02:00-08:00",
+        "2001-03-26 13:17:00-08:00",
+        "2000-11-07 00:16:00-08:00",
+        "2000-11-06 08:22:00-08:00",
+        "2001-03-26 13:33:00-08:00",
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-10-31 02:36:00-08:00",
+        "2000-10-31 00:25:00-08:00",
+        "2000-10-31 00:21:00-08:00",
+        "2000-10-31 00:01:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-10-17 03:45:00-07:00",
+        "2000-10-17 03:29:00-07:00",
+        "2000-10-16 06:30:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-10-06 05:06:00-07:00",
+        "2000-10-06 03:39:00-07:00",
+        "2000-10-06 00:45:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-26 05:37:00-07:00",
+        "2000-09-21 07:05:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2001-04-09 14:41:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-29 02:20:00-07:00",
+        "2000-08-29 01:44:00-07:00",
+        "2000-08-29 01:17:00-07:00",
+        "2000-08-29 00:43:00-07:00",
+        "2000-08-28 07:06:00-07:00",
+        "2000-08-24 03:35:00-07:00",
+        "2000-08-24 03:13:00-07:00",
+        "2000-08-24 03:02:00-07:00"
+      ],
+      "first_seen": "1999-12-13 06:32:00-08:00",
+      "last_seen": "2001-04-09 14:41:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'jeff.richter@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-15 06:23:00-08:00"
+      ],
+      "first_seen": "2001-03-15 06:23:00-08:00",
+      "last_seen": "2001-03-15 06:23:00-08:00"
+    },
+    "('eric.bass@enron.com', 'denver.plachy@enron.com')": {
+      "weight": 20,
+      "timestamps": [
+        "2000-12-06 03:14:00-08:00",
+        "2000-12-06 03:14:00-08:00",
+        "2001-03-19 19:37:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-13 06:20:00-08:00",
+        "2001-02-07 00:35:00-08:00",
+        "2001-01-29 08:24:00-08:00",
+        "2001-01-29 08:14:00-08:00",
+        "2001-01-22 05:29:00-08:00",
+        "2000-10-31 02:36:00-08:00",
+        "2000-10-31 00:28:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-12 01:33:00-07:00",
+        "2000-10-06 01:23:00-07:00",
+        "2000-10-05 01:20:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-28 01:09:00-07:00",
+        "2000-09-21 07:05:00-07:00",
+        "2000-09-21 01:17:00-07:00",
+        "2000-09-20 07:18:00-07:00"
+      ],
+      "first_seen": "2000-09-20 07:18:00-07:00",
+      "last_seen": "2001-03-19 19:37:00-08:00"
+    },
+    "('eric.bass@enron.com', 'jody.crook@enron.com')": {
+      "weight": 10,
+      "timestamps": [
+        "2000-12-06 03:14:00-08:00",
+        "2000-12-06 03:14:00-08:00",
+        "2001-03-19 19:37:00-08:00",
+        "2001-02-07 00:35:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-06 03:39:00-07:00",
+        "2000-10-06 03:39:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-27 04:57:00-07:00",
+        "2000-08-31 05:10:00-07:00"
+      ],
+      "first_seen": "2000-08-31 05:10:00-07:00",
+      "last_seen": "2001-03-19 19:37:00-08:00"
+    },
+    "('eric.bass@enron.com', 'patrick.ryder@enron.com')": {
+      "weight": 35,
+      "timestamps": [
+        "2000-12-06 03:14:00-08:00",
+        "2001-04-09 04:41:00-07:00",
+        "2001-03-28 07:53:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-03-20 14:49:00-08:00",
+        "2000-11-21 03:08:00-08:00",
+        "2000-11-08 01:59:00-08:00",
+        "2000-10-31 02:36:00-08:00",
+        "2000-10-31 00:49:00-08:00",
+        "2000-10-24 08:09:00-07:00",
+        "2000-10-18 01:30:00-07:00",
+        "2001-03-28 18:53:00-08:00",
+        "2000-10-11 01:47:00-07:00",
+        "2000-10-10 01:00:00-07:00",
+        "2000-10-04 05:02:00-07:00",
+        "2000-10-03 07:31:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-27 04:41:00-07:00",
+        "2000-09-20 04:51:00-07:00",
+        "2000-09-20 04:48:00-07:00",
+        "2000-09-19 05:25:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-19 04:51:00-07:00",
+        "2000-09-13 03:21:00-07:00",
+        "2000-09-13 01:51:00-07:00",
+        "2000-09-13 01:01:00-07:00",
+        "2001-04-09 14:41:00-07:00",
+        "2000-09-06 00:44:00-07:00",
+        "2000-09-06 00:21:00-07:00",
+        "2000-09-05 09:46:00-07:00",
+        "2000-08-29 00:44:00-07:00",
+        "2000-08-29 00:44:00-07:00",
+        "2000-08-28 07:06:00-07:00",
+        "2000-08-28 07:06:00-07:00"
+      ],
+      "first_seen": "2000-08-28 07:06:00-07:00",
+      "last_seen": "2001-04-09 14:41:00-07:00"
+    },
+    "('eric.bass@enron.com', 'chad.landry@enron.com')": {
+      "weight": 50,
+      "timestamps": [
+        "2000-01-12 01:35:00-08:00",
+        "2000-01-10 08:05:00-08:00",
+        "2000-01-10 06:53:00-08:00",
+        "1999-12-27 00:51:00-08:00",
+        "2000-12-06 00:57:00-08:00",
+        "1999-12-13 06:32:00-08:00",
+        "2001-03-13 03:27:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-12 02:33:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 04:47:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-06 00:19:00-08:00",
+        "2001-01-31 05:44:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-01-26 02:39:00-08:00",
+        "2000-11-29 08:41:00-08:00",
+        "2001-01-10 03:10:00-08:00",
+        "2000-11-28 01:03:00-08:00",
+        "2001-01-03 08:34:00-08:00",
+        "2001-01-03 08:34:00-08:00",
+        "2001-01-03 08:29:00-08:00",
+        "2001-01-03 08:29:00-08:00",
+        "2001-01-03 08:08:00-08:00",
+        "2001-01-03 08:08:00-08:00",
+        "2001-01-03 08:06:00-08:00",
+        "2001-01-03 08:06:00-08:00",
+        "2000-11-17 00:30:00-08:00",
+        "2000-11-15 00:02:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-20 01:15:00-07:00",
+        "2000-10-12 09:40:00-07:00",
+        "2001-03-13 14:27:00-08:00",
+        "2000-10-06 05:06:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-27 06:05:00-07:00",
+        "2000-09-21 07:50:00-07:00",
+        "2000-09-07 03:21:00-07:00",
+        "2000-09-05 07:57:00-07:00",
+        "2000-08-31 05:06:00-07:00"
+      ],
+      "first_seen": "1999-12-13 06:32:00-08:00",
+      "last_seen": "2001-03-13 14:27:00-08:00"
+    },
+    "('eric.bass@enron.com', 'yvette.connevey@enron.com')": {
+      "weight": 6,
+      "timestamps": [
+        "2000-01-12 01:35:00-08:00",
+        "2000-01-07 08:00:00-08:00",
+        "2000-01-07 07:44:00-08:00",
+        "2000-01-07 00:52:00-08:00",
+        "2000-01-07 00:52:00-08:00",
+        "2001-01-12 01:06:00-08:00"
+      ],
+      "first_seen": "2000-01-07 00:52:00-08:00",
+      "last_seen": "2001-01-12 01:06:00-08:00"
+    },
+    "('eric.bass@enron.com', 'judy.barnes@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-12 00:30:00-08:00"
+      ],
+      "first_seen": "2000-01-12 00:30:00-08:00",
+      "last_seen": "2000-01-12 00:30:00-08:00"
+    },
+    "('eric.bass@enron.com', 'imelda.frayre@enron.com')": {
+      "weight": 6,
+      "timestamps": [
+        "2000-01-11 06:46:00-08:00",
+        "2000-01-07 07:59:00-08:00",
+        "2000-01-07 07:59:00-08:00",
+        "1999-12-14 01:25:00-08:00",
+        "1999-12-13 07:41:00-08:00",
+        "1999-12-13 07:33:00-08:00"
+      ],
+      "first_seen": "1999-12-13 07:33:00-08:00",
+      "last_seen": "2000-01-11 06:46:00-08:00"
+    },
+    "('eric.bass@enron.com', 'tracey.irvin@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-01-11 03:21:00-08:00",
+        "2000-01-11 00:44:00-08:00"
+      ],
+      "first_seen": "2000-01-11 00:44:00-08:00",
+      "last_seen": "2000-01-11 03:21:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'kim.bolton@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-15 06:11:00-08:00"
+      ],
+      "first_seen": "2001-03-15 06:11:00-08:00",
+      "last_seen": "2001-03-15 06:11:00-08:00"
+    },
+    "('eric.bass@enron.com', 'edward.gottlob@enron.com')": {
+      "weight": 9,
+      "timestamps": [
+        "2000-01-11 01:58:00-08:00",
+        "2001-04-09 04:37:00-07:00",
+        "2000-11-09 02:47:00-08:00",
+        "2000-11-09 02:47:00-08:00",
+        "2000-11-08 09:17:00-08:00",
+        "2000-11-08 09:17:00-08:00",
+        "2000-09-18 09:22:00-07:00",
+        "2000-09-18 09:22:00-07:00",
+        "2001-04-09 14:37:00-07:00"
+      ],
+      "first_seen": "2000-01-11 01:58:00-08:00",
+      "last_seen": "2001-04-09 14:37:00-07:00"
+    },
+    "('eric.bass@enron.com', 'bill.kyle@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-12-06 02:58:00-08:00",
+        "2000-12-06 02:58:00-08:00"
+      ],
+      "first_seen": "2000-12-06 02:58:00-08:00",
+      "last_seen": "2000-12-06 02:58:00-08:00"
+    },
+    "('eric.bass@enron.com', 'george.hope@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-12-06 02:58:00-08:00",
+        "2000-12-06 02:58:00-08:00"
+      ],
+      "first_seen": "2000-12-06 02:58:00-08:00",
+      "last_seen": "2000-12-06 02:58:00-08:00"
+    },
+    "('eric.bass@enron.com', 'deirdre.mccaffrey@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-10 08:29:00-08:00"
+      ],
+      "first_seen": "2000-01-10 08:29:00-08:00",
+      "last_seen": "2000-01-10 08:29:00-08:00"
+    },
+    "('eric.bass@enron.com', 'shelliott@dttus.com')": {
+      "weight": 5,
+      "timestamps": [
+        "2000-01-10 08:12:00-08:00",
+        "2000-01-06 07:09:00-08:00",
+        "2000-01-04 05:10:00-08:00",
+        "1999-12-15 11:25:00-08:00",
+        "1999-12-15 08:51:00-08:00"
+      ],
+      "first_seen": "1999-12-15 08:51:00-08:00",
+      "last_seen": "2000-01-10 08:12:00-08:00"
+    },
+    "('eric.bass@enron.com', 'brettlawler@hotmail.com')": {
+      "weight": 12,
+      "timestamps": [
+        "2000-01-10 08:05:00-08:00",
+        "2000-01-07 08:06:00-08:00",
+        "2000-12-06 00:57:00-08:00",
+        "2001-04-09 01:03:00-07:00",
+        "2001-01-12 01:53:00-08:00",
+        "2001-01-10 01:03:00-08:00",
+        "2000-11-16 07:08:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-23 01:26:00-07:00",
+        "2000-09-15 07:49:00-07:00",
+        "2001-04-09 11:03:00-07:00",
+        "2000-08-30 02:33:00-07:00"
+      ],
+      "first_seen": "2000-01-07 08:06:00-08:00",
+      "last_seen": "2001-04-09 11:03:00-07:00"
+    },
+    "('eric.bass@enron.com', 'daphneco64@aol.com')": {
+      "weight": 3,
+      "timestamps": [
+        "2000-01-10 08:05:00-08:00",
+        "1999-12-28 05:21:00-08:00",
+        "1999-12-28 05:21:00-08:00"
+      ],
+      "first_seen": "1999-12-28 05:21:00-08:00",
+      "last_seen": "2000-01-10 08:05:00-08:00"
+    },
+    "('eric.bass@enron.com', 'lwbthemarine@bigplanet.com')": {
+      "weight": 73,
+      "timestamps": [
+        "2000-01-10 08:05:00-08:00",
+        "1999-12-28 05:21:00-08:00",
+        "2000-12-06 00:33:00-08:00",
+        "2000-12-05 23:39:00-08:00",
+        "2001-03-27 07:21:00-08:00",
+        "2001-03-19 02:52:00-08:00",
+        "2001-03-08 03:21:00-08:00",
+        "2001-03-07 03:17:00-08:00",
+        "2001-03-07 02:56:00-08:00",
+        "2001-02-28 02:17:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-20 05:38:00-08:00",
+        "2001-02-15 07:48:00-08:00",
+        "2000-12-04 03:14:00-08:00",
+        "2000-12-04 03:13:00-08:00",
+        "2001-02-07 03:08:00-08:00",
+        "2001-02-05 02:36:00-08:00",
+        "2001-01-18 02:12:00-08:00",
+        "2001-01-12 01:53:00-08:00",
+        "2000-11-28 01:32:00-08:00",
+        "2001-01-11 05:35:00-08:00",
+        "2000-11-28 01:23:00-08:00",
+        "2001-01-09 02:29:00-08:00",
+        "2001-01-08 00:09:00-08:00",
+        "2000-12-28 06:30:00-08:00",
+        "2000-12-28 06:30:00-08:00",
+        "2000-12-28 02:02:00-08:00",
+        "2000-12-27 04:14:00-08:00",
+        "2000-12-27 01:33:00-08:00",
+        "2000-11-21 03:50:00-08:00",
+        "2000-12-18 08:00:00-08:00",
+        "2000-12-18 07:27:00-08:00",
+        "2000-12-18 06:45:00-08:00",
+        "2000-11-17 01:59:00-08:00",
+        "2000-11-16 05:33:00-08:00",
+        "2000-11-15 08:44:00-08:00",
+        "2000-11-15 03:02:00-08:00",
+        "2000-11-14 07:42:00-08:00",
+        "2000-11-14 07:09:00-08:00",
+        "2000-11-10 01:58:00-08:00",
+        "2000-11-08 08:33:00-08:00",
+        "2000-11-06 08:22:00-08:00",
+        "2000-11-01 04:34:00-08:00",
+        "2000-10-30 06:13:00-08:00",
+        "2000-10-23 10:11:00-07:00",
+        "2000-10-19 09:51:00-07:00",
+        "2001-03-27 18:21:00-08:00",
+        "2000-10-17 02:48:00-07:00",
+        "2000-10-12 07:29:00-07:00",
+        "2000-10-12 01:23:00-07:00",
+        "2000-10-09 06:39:00-07:00",
+        "2000-10-06 01:23:00-07:00",
+        "2000-10-04 02:00:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-27 02:54:00-07:00",
+        "2000-09-21 04:10:00-07:00",
+        "2000-09-13 04:08:00-07:00",
+        "2000-09-12 02:39:00-07:00",
+        "2000-09-12 02:32:00-07:00",
+        "2000-09-06 08:47:00-07:00",
+        "2000-09-06 01:35:00-07:00",
+        "2000-09-06 01:35:00-07:00",
+        "2000-09-05 05:59:00-07:00",
+        "2000-09-05 05:54:00-07:00",
+        "2000-09-05 05:54:00-07:00",
+        "2000-09-05 05:17:00-07:00",
+        "2000-09-05 04:56:00-07:00",
+        "2000-08-31 06:28:00-07:00",
+        "2000-08-31 05:48:00-07:00",
+        "2000-08-31 05:10:00-07:00",
+        "2000-08-28 08:22:00-07:00",
+        "2000-08-25 03:02:00-07:00",
+        "2000-08-25 03:02:00-07:00"
+      ],
+      "first_seen": "1999-12-28 05:21:00-08:00",
+      "last_seen": "2001-03-27 18:21:00-08:00"
+    },
+    "('eric.bass@enron.com', 'christa.winfrey@enron.com')": {
+      "weight": 4,
+      "timestamps": [
+        "2000-01-10 07:10:00-08:00",
+        "2000-01-10 06:53:00-08:00",
+        "2000-11-17 00:30:00-08:00",
+        "2000-09-28 05:51:00-07:00"
+      ],
+      "first_seen": "2000-01-10 06:53:00-08:00",
+      "last_seen": "2000-11-17 00:30:00-08:00"
+    },
+    "('eric.bass@enron.com', 'carrie.southard@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-10 06:53:00-08:00"
+      ],
+      "first_seen": "2000-01-10 06:53:00-08:00",
+      "last_seen": "2000-01-10 06:53:00-08:00"
+    },
+    "('eric.bass@enron.com', 'dan.feather@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-10 06:53:00-08:00"
+      ],
+      "first_seen": "2000-01-10 06:53:00-08:00",
+      "last_seen": "2000-01-10 06:53:00-08:00"
+    },
+    "('eric.bass@enron.com', 'hector.campos@enron.com')": {
+      "weight": 40,
+      "timestamps": [
+        "2000-01-10 06:53:00-08:00",
+        "2000-01-04 07:39:00-08:00",
+        "2001-02-20 07:14:00-08:00",
+        "2001-02-09 02:56:00-08:00",
+        "2001-02-07 08:03:00-08:00",
+        "2001-03-20 14:49:00-08:00",
+        "2001-01-24 23:59:00-08:00",
+        "2001-01-24 03:26:00-08:00",
+        "2001-01-24 03:11:00-08:00",
+        "2001-01-23 02:40:00-08:00",
+        "2001-01-11 05:35:00-08:00",
+        "2001-01-10 06:11:00-08:00",
+        "2001-01-10 06:11:00-08:00",
+        "2001-01-09 03:01:00-08:00",
+        "2001-01-09 03:01:00-08:00",
+        "2001-01-05 01:28:00-08:00",
+        "2000-12-21 05:54:00-08:00",
+        "2000-12-21 05:04:00-08:00",
+        "2000-12-21 02:26:00-08:00",
+        "2000-12-21 02:26:00-08:00",
+        "2000-12-20 07:29:00-08:00",
+        "2000-11-17 00:30:00-08:00",
+        "2000-11-15 09:02:00-08:00",
+        "2000-11-13 07:28:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-23 01:26:00-07:00",
+        "2000-10-19 09:51:00-07:00",
+        "2000-10-17 02:48:00-07:00",
+        "2000-10-12 03:01:00-07:00",
+        "2000-10-10 01:06:00-07:00",
+        "2000-09-28 06:12:00-07:00",
+        "2000-09-28 05:51:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-21 09:28:00-07:00",
+        "2000-09-21 09:28:00-07:00",
+        "2000-09-15 07:49:00-07:00",
+        "2000-09-06 03:51:00-07:00",
+        "2000-09-05 08:38:00-07:00",
+        "2000-09-05 07:57:00-07:00",
+        "2000-08-31 05:06:00-07:00"
+      ],
+      "first_seen": "2000-01-04 07:39:00-08:00",
+      "last_seen": "2001-03-20 14:49:00-08:00"
+    },
+    "('eric.bass@enron.com', 'lenine.jeganathan@enron.com')": {
+      "weight": 18,
+      "timestamps": [
+        "2000-01-10 06:53:00-08:00",
+        "2000-01-04 07:39:00-08:00",
+        "2001-03-20 14:49:00-08:00",
+        "2001-01-09 03:01:00-08:00",
+        "2001-01-09 03:01:00-08:00",
+        "2000-11-13 07:28:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-23 01:26:00-07:00",
+        "2000-10-19 09:51:00-07:00",
+        "2000-10-17 02:48:00-07:00",
+        "2000-10-12 03:01:00-07:00",
+        "2000-10-12 03:01:00-07:00",
+        "2000-10-10 01:06:00-07:00",
+        "2000-09-28 05:51:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-15 07:49:00-07:00",
+        "2000-09-05 07:57:00-07:00",
+        "2000-08-31 05:06:00-07:00"
+      ],
+      "first_seen": "2000-01-04 07:39:00-08:00",
+      "last_seen": "2001-03-20 14:49:00-08:00"
+    },
+    "('eric.bass@enron.com', 'nick.hiemstra@enron.com')": {
+      "weight": 21,
+      "timestamps": [
+        "2000-01-10 06:53:00-08:00",
+        "2000-11-27 02:56:00-08:00",
+        "2000-11-01 06:55:00-08:00",
+        "2000-11-01 05:26:00-08:00",
+        "2000-10-30 02:16:00-08:00",
+        "2000-10-18 03:59:00-07:00",
+        "2000-10-17 01:37:00-07:00",
+        "2000-10-17 01:35:00-07:00",
+        "2000-10-17 01:23:00-07:00",
+        "2000-10-10 02:26:00-07:00",
+        "2000-10-10 02:21:00-07:00",
+        "2000-10-04 06:05:00-07:00",
+        "2000-10-02 03:33:00-07:00",
+        "2000-09-27 01:25:00-07:00",
+        "2000-09-25 06:20:00-07:00",
+        "2000-09-20 02:29:00-07:00",
+        "2000-09-20 01:16:00-07:00",
+        "2000-09-20 01:12:00-07:00",
+        "2000-09-18 09:44:00-07:00",
+        "2000-09-18 07:04:00-07:00",
+        "2000-09-13 01:22:00-07:00"
+      ],
+      "first_seen": "2000-01-10 06:53:00-08:00",
+      "last_seen": "2000-11-27 02:56:00-08:00"
+    },
+    "('eric.bass@enron.com', 'stephen.plauche@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-10 06:53:00-08:00"
+      ],
+      "first_seen": "2000-01-10 06:53:00-08:00",
+      "last_seen": "2000-01-10 06:53:00-08:00"
+    },
+    "('eric.bass@enron.com', 'susan.smith@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-10 06:53:00-08:00"
+      ],
+      "first_seen": "2000-01-10 06:53:00-08:00",
+      "last_seen": "2000-01-10 06:53:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'djack@keyad.com')": {
+      "weight": 4,
+      "timestamps": [
+        "2001-03-15 04:39:00-08:00",
+        "2001-03-15 04:39:00-08:00",
+        "2001-03-14 04:18:00-08:00",
+        "2001-03-07 08:16:00-08:00"
+      ],
+      "first_seen": "2001-03-07 08:16:00-08:00",
+      "last_seen": "2001-03-15 04:39:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'gthorse@keyad.com')": {
+      "weight": 3,
+      "timestamps": [
+        "2001-03-15 04:39:00-08:00",
+        "2001-03-14 04:18:00-08:00",
+        "2001-03-08 05:33:00-08:00"
+      ],
+      "first_seen": "2001-03-08 05:33:00-08:00",
+      "last_seen": "2001-03-15 04:39:00-08:00"
+    },
+    "('eric.bass@enron.com', 'jackie.nelson@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-07 08:44:00-08:00"
+      ],
+      "first_seen": "2000-01-07 08:44:00-08:00",
+      "last_seen": "2000-01-07 08:44:00-08:00"
+    },
+    "('eric.bass@enron.com', 'luis.mena@enron.com')": {
+      "weight": 68,
+      "timestamps": [
+        "2000-12-06 02:57:00-08:00",
+        "2000-12-06 02:57:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2001-03-19 19:37:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2000-12-04 06:26:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 00:03:00-08:00",
+        "2001-01-26 02:12:00-08:00",
+        "2000-11-29 08:41:00-08:00",
+        "2001-01-18 03:22:00-08:00",
+        "2001-01-10 03:10:00-08:00",
+        "2001-01-05 01:28:00-08:00",
+        "2001-01-03 08:49:00-08:00",
+        "2001-01-03 03:41:00-08:00",
+        "2001-01-03 03:41:00-08:00",
+        "2001-01-03 01:48:00-08:00",
+        "2001-01-03 00:29:00-08:00",
+        "2000-12-21 02:26:00-08:00",
+        "2000-12-20 07:29:00-08:00",
+        "2000-11-17 00:45:00-08:00",
+        "2000-11-17 00:30:00-08:00",
+        "2000-11-17 00:28:00-08:00",
+        "2000-11-16 04:50:00-08:00",
+        "2000-11-16 04:01:00-08:00",
+        "2000-11-15 08:01:00-08:00",
+        "2000-11-15 00:02:00-08:00",
+        "2000-11-14 04:17:00-08:00",
+        "2000-11-14 03:42:00-08:00",
+        "2000-11-14 02:45:00-08:00",
+        "2000-11-13 06:31:00-08:00",
+        "2000-11-01 06:55:00-08:00",
+        "2000-10-30 02:16:00-08:00",
+        "2000-10-18 04:40:00-07:00",
+        "2000-10-18 03:59:00-07:00",
+        "2000-10-18 02:38:00-07:00",
+        "2000-10-17 01:23:00-07:00",
+        "2000-10-12 04:27:00-07:00",
+        "2000-10-12 01:33:00-07:00",
+        "2000-10-11 01:45:00-07:00",
+        "2000-10-10 02:21:00-07:00",
+        "2000-10-09 07:58:00-07:00",
+        "2000-10-06 01:23:00-07:00",
+        "2000-10-05 01:20:00-07:00",
+        "2000-10-04 06:05:00-07:00",
+        "2000-10-02 08:32:00-07:00",
+        "2000-10-02 03:33:00-07:00",
+        "2000-09-28 05:51:00-07:00",
+        "2000-09-28 01:09:00-07:00",
+        "2000-09-27 01:25:00-07:00",
+        "2000-09-26 06:42:00-07:00",
+        "2000-09-25 06:20:00-07:00",
+        "2000-09-21 01:17:00-07:00",
+        "2000-09-20 02:29:00-07:00",
+        "2000-09-20 01:36:00-07:00",
+        "2000-09-20 01:12:00-07:00",
+        "2000-09-18 07:04:00-07:00",
+        "2000-09-13 09:51:00-07:00",
+        "2000-09-13 01:22:00-07:00",
+        "2000-09-13 01:22:00-07:00",
+        "2000-08-31 05:06:00-07:00"
+      ],
+      "first_seen": "2000-08-31 05:06:00-07:00",
+      "last_seen": "2001-03-19 19:37:00-08:00"
+    },
+    "('eric.bass@enron.com', 'michael.simmons@enron.com')": {
+      "weight": 8,
+      "timestamps": [
+        "2000-12-06 02:57:00-08:00",
+        "2000-11-27 07:52:00-08:00",
+        "2000-12-18 03:38:00-08:00",
+        "2000-11-14 08:00:00-08:00",
+        "2000-11-14 04:17:00-08:00",
+        "2000-11-13 06:15:00-08:00",
+        "2000-10-30 04:40:00-08:00",
+        "2000-10-23 01:15:00-07:00"
+      ],
+      "first_seen": "2000-10-23 01:15:00-07:00",
+      "last_seen": "2000-12-18 03:38:00-08:00"
+    },
+    "('eric.bass@enron.com', 'paul.broderick@enron.com')": {
+      "weight": 3,
+      "timestamps": [
+        "2000-12-06 02:57:00-08:00",
+        "2000-12-06 02:57:00-08:00",
+        "2000-11-14 04:17:00-08:00"
+      ],
+      "first_seen": "2000-11-14 04:17:00-08:00",
+      "last_seen": "2000-12-06 02:57:00-08:00"
+    },
+    "('eric.bass@enron.com', 'stephen.schwarzbach@enron.com')": {
+      "weight": 3,
+      "timestamps": [
+        "2000-12-06 02:57:00-08:00",
+        "2000-12-06 02:57:00-08:00",
+        "2000-11-14 04:17:00-08:00"
+      ],
+      "first_seen": "2000-11-14 04:17:00-08:00",
+      "last_seen": "2000-12-06 02:57:00-08:00"
+    },
+    "('eric.bass@enron.com', 'karie.hastings@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-01-07 07:59:00-08:00",
+        "2000-01-07 07:59:00-08:00"
+      ],
+      "first_seen": "2000-01-07 07:59:00-08:00",
+      "last_seen": "2000-01-07 07:59:00-08:00"
+    },
+    "('eric.bass@enron.com', 'scott.mills@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-07 07:59:00-08:00"
+      ],
+      "first_seen": "2000-01-07 07:59:00-08:00",
+      "last_seen": "2000-01-07 07:59:00-08:00"
+    },
+    "('eric.bass@enron.com', 'sean.kiehne@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-01-07 07:44:00-08:00",
+        "2000-01-07 07:44:00-08:00"
+      ],
+      "first_seen": "2000-01-07 07:44:00-08:00",
+      "last_seen": "2000-01-07 07:44:00-08:00"
+    },
+    "('eric.bass@enron.com', 'julie.meyers@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-01-07 00:52:00-08:00",
+        "2000-01-06 00:09:00-08:00"
+      ],
+      "first_seen": "2000-01-06 00:09:00-08:00",
+      "last_seen": "2000-01-07 00:52:00-08:00"
+    },
+    "('eric.bass@enron.com', 'chance.rabon@enron.com')": {
+      "weight": 22,
+      "timestamps": [
+        "2001-03-19 15:14:00-08:00",
+        "2001-04-02 03:18:00-07:00",
+        "2001-03-28 07:56:00-08:00",
+        "2001-03-27 05:36:00-08:00",
+        "2001-03-26 02:33:00-08:00",
+        "2001-03-26 02:33:00-08:00",
+        "2001-03-23 04:06:00-08:00",
+        "2001-03-19 04:14:00-08:00",
+        "2001-03-16 01:27:00-08:00",
+        "2001-03-14 03:47:00-08:00",
+        "2001-03-13 05:13:00-08:00",
+        "2001-03-09 00:24:00-08:00",
+        "2001-03-08 08:38:00-08:00",
+        "2001-03-07 02:25:00-08:00",
+        "2001-02-27 03:01:00-08:00",
+        "2001-03-23 15:06:00-08:00",
+        "2001-03-26 13:33:00-08:00",
+        "2001-03-26 13:33:00-08:00",
+        "2001-03-27 16:36:00-08:00",
+        "2001-03-28 18:56:00-08:00",
+        "2001-04-02 13:18:00-07:00",
+        "2001-03-13 16:13:00-08:00"
+      ],
+      "first_seen": "2001-02-27 03:01:00-08:00",
+      "last_seen": "2001-04-02 13:18:00-07:00"
+    },
+    "('eric.bass@enron.com', 'don.black@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-12-06 02:27:00-08:00",
+        "2000-12-01 01:55:00-08:00"
+      ],
+      "first_seen": "2000-12-01 01:55:00-08:00",
+      "last_seen": "2000-12-06 02:27:00-08:00"
+    },
+    "('eric.bass@enron.com', 'selliott@dttus.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-06 07:06:00-08:00"
+      ],
+      "first_seen": "2000-01-06 07:06:00-08:00",
+      "last_seen": "2000-01-06 07:06:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'pallen70@hotmail.com')": {
+      "weight": 7,
+      "timestamps": [
+        "2001-03-14 11:03:00-08:00",
+        "2001-03-14 08:02:00-08:00",
+        "2001-03-14 08:01:00-08:00",
+        "2001-02-21 08:26:00-08:00",
+        "2001-02-20 04:20:00-08:00",
+        "2001-02-18 11:52:00-08:00",
+        "2001-02-18 11:50:00-08:00"
+      ],
+      "first_seen": "2001-02-18 11:50:00-08:00",
+      "last_seen": "2001-03-14 11:03:00-08:00"
+    },
+    "('eric.bass@enron.com', 'tlmartin@dellnet.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-05 10:56:00-08:00"
+      ],
+      "first_seen": "2000-01-05 10:56:00-08:00",
+      "last_seen": "2000-01-05 10:56:00-08:00"
+    },
+    "('eric.bass@enron.com', 'janet.wallis@enron.com')": {
+      "weight": 3,
+      "timestamps": [
+        "2000-01-05 07:41:00-08:00",
+        "2000-01-05 07:41:00-08:00",
+        "1999-12-14 01:43:00-08:00"
+      ],
+      "first_seen": "1999-12-14 01:43:00-08:00",
+      "last_seen": "2000-01-05 07:41:00-08:00"
+    },
+    "('eric.bass@enron.com', 'danny.campbell@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-01-05 06:37:00-08:00"
+      ],
+      "first_seen": "2000-01-05 06:37:00-08:00",
+      "last_seen": "2000-01-05 06:37:00-08:00"
+    },
+    "('eric.bass@enron.com', 'melissa.graves@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "1999-12-27 01:22:00-08:00"
+      ],
+      "first_seen": "1999-12-27 01:22:00-08:00",
+      "last_seen": "1999-12-27 01:22:00-08:00"
+    },
+    "('eric.bass@enron.com', 'steve.venturatos@enron.com')": {
+      "weight": 43,
+      "timestamps": [
+        "1999-12-22 06:59:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 04:47:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 08:05:00-08:00",
+        "2001-02-07 00:03:00-08:00",
+        "2001-02-06 00:19:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 06:04:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-01-30 05:09:00-08:00",
+        "2001-01-04 01:41:00-08:00",
+        "2001-01-03 08:34:00-08:00",
+        "2001-01-03 08:34:00-08:00",
+        "2001-01-03 08:29:00-08:00",
+        "2001-01-03 08:29:00-08:00",
+        "2001-01-03 08:08:00-08:00",
+        "2001-01-03 08:08:00-08:00",
+        "2001-01-03 08:06:00-08:00",
+        "2001-01-03 08:06:00-08:00",
+        "2000-11-02 06:33:00-08:00",
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-11-01 02:19:00-08:00",
+        "2000-10-26 09:16:00-07:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-13 07:53:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2000-09-13 01:00:00-07:00",
+        "2000-09-12 06:37:00-07:00",
+        "2000-09-12 06:18:00-07:00",
+        "2000-09-11 09:36:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-09-05 01:36:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-28 07:06:00-07:00"
+      ],
+      "first_seen": "1999-12-22 06:59:00-08:00",
+      "last_seen": "2001-02-08 05:00:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'andrea.richards@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-12-06 04:43:00-08:00"
+      ],
+      "first_seen": "2000-12-06 04:43:00-08:00",
+      "last_seen": "2000-12-06 04:43:00-08:00"
+    },
+    "('eric.bass@enron.com', 'dominator128@hotmail.com')": {
+      "weight": 3,
+      "timestamps": [
+        "1999-12-14 10:35:00-08:00",
+        "2001-03-22 08:07:00-08:00",
+        "2001-03-22 19:07:00-08:00"
+      ],
+      "first_seen": "1999-12-14 10:35:00-08:00",
+      "last_seen": "2001-03-22 19:07:00-08:00"
+    },
+    "('eric.bass@enron.com', 'janie.aguayo@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "1999-12-14 07:05:00-08:00",
+        "2001-01-22 04:03:00-08:00"
+      ],
+      "first_seen": "1999-12-14 07:05:00-08:00",
+      "last_seen": "2001-01-22 04:03:00-08:00"
+    },
+    "('eric.bass@enron.com', 'daphneco64@bigplanet.com')": {
+      "weight": 106,
+      "timestamps": [
+        "2000-12-06 00:33:00-08:00",
+        "2000-12-05 23:39:00-08:00",
+        "2001-04-04 06:26:00-07:00",
+        "2001-03-28 03:44:00-08:00",
+        "2001-03-15 04:21:00-08:00",
+        "2001-03-15 00:13:00-08:00",
+        "2001-03-02 02:56:00-08:00",
+        "2001-02-26 02:54:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-20 01:21:00-08:00",
+        "2001-02-14 23:17:00-08:00",
+        "2000-12-04 03:14:00-08:00",
+        "2000-12-04 03:13:00-08:00",
+        "2001-02-12 01:55:00-08:00",
+        "2001-02-09 04:59:00-08:00",
+        "2001-02-09 02:05:00-08:00",
+        "2001-02-08 23:19:00-08:00",
+        "2001-02-07 06:45:00-08:00",
+        "2001-02-07 03:11:00-08:00",
+        "2001-02-07 01:11:00-08:00",
+        "2001-02-01 04:11:00-08:00",
+        "2001-02-01 01:48:00-08:00",
+        "2001-01-31 23:51:00-08:00",
+        "2001-01-31 23:48:00-08:00",
+        "2001-01-31 08:42:00-08:00",
+        "2001-01-30 03:32:00-08:00",
+        "2001-01-30 02:42:00-08:00",
+        "2001-01-29 04:15:00-08:00",
+        "2001-01-26 05:08:00-08:00",
+        "2001-01-26 00:48:00-08:00",
+        "2001-01-25 06:28:00-08:00",
+        "2001-01-24 06:06:00-08:00",
+        "2001-01-24 04:30:00-08:00",
+        "2001-01-22 04:07:00-08:00",
+        "2001-01-22 01:58:00-08:00",
+        "2001-01-18 02:42:00-08:00",
+        "2001-01-17 23:52:00-08:00",
+        "2001-01-17 02:54:00-08:00",
+        "2001-01-17 02:24:00-08:00",
+        "2001-01-16 01:53:00-08:00",
+        "2000-11-28 01:32:00-08:00",
+        "2001-01-11 05:35:00-08:00",
+        "2001-01-10 02:18:00-08:00",
+        "2000-11-28 01:23:00-08:00",
+        "2001-01-09 23:53:00-08:00",
+        "2001-01-09 02:29:00-08:00",
+        "2001-01-09 02:29:00-08:00",
+        "2001-01-05 07:06:00-08:00",
+        "2001-01-05 06:07:00-08:00",
+        "2000-12-28 06:30:00-08:00",
+        "2000-12-28 02:02:00-08:00",
+        "2000-12-28 02:02:00-08:00",
+        "2000-12-27 01:32:00-08:00",
+        "2000-11-21 03:50:00-08:00",
+        "2000-12-18 08:00:00-08:00",
+        "2000-12-18 07:36:00-08:00",
+        "2000-12-18 07:26:00-08:00",
+        "2000-12-18 05:41:00-08:00",
+        "2000-12-18 02:54:00-08:00",
+        "2000-11-17 07:09:00-08:00",
+        "2000-11-17 01:59:00-08:00",
+        "2000-11-15 08:44:00-08:00",
+        "2000-11-15 03:02:00-08:00",
+        "2000-11-14 07:09:00-08:00",
+        "2000-11-13 03:59:00-08:00",
+        "2000-11-08 08:33:00-08:00",
+        "2000-11-06 08:22:00-08:00",
+        "2000-11-01 05:19:00-08:00",
+        "2000-11-01 05:10:00-08:00",
+        "2000-11-01 04:34:00-08:00",
+        "2000-10-30 06:13:00-08:00",
+        "2000-10-30 06:13:00-08:00",
+        "2000-10-30 01:29:00-08:00",
+        "2000-10-23 10:11:00-07:00",
+        "2000-10-23 10:11:00-07:00",
+        "2000-10-23 01:30:00-07:00",
+        "2000-10-19 09:51:00-07:00",
+        "2000-10-17 02:48:00-07:00",
+        "2001-03-28 14:44:00-08:00",
+        "2000-10-12 01:23:00-07:00",
+        "2000-10-09 06:39:00-07:00",
+        "2000-10-09 05:54:00-07:00",
+        "2000-10-06 01:23:00-07:00",
+        "2000-10-04 02:00:00-07:00",
+        "2000-10-03 08:02:00-07:00",
+        "2000-10-03 06:43:00-07:00",
+        "2000-10-03 05:18:00-07:00",
+        "2000-09-27 02:54:00-07:00",
+        "2000-09-21 04:10:00-07:00",
+        "2000-09-21 04:10:00-07:00",
+        "2001-04-04 16:26:00-07:00",
+        "2000-09-19 04:51:00-07:00",
+        "2000-09-19 03:19:00-07:00",
+        "2000-09-19 02:33:00-07:00",
+        "2000-09-12 02:39:00-07:00",
+        "2000-09-12 02:32:00-07:00",
+        "2000-09-06 09:45:00-07:00",
+        "2000-09-06 08:47:00-07:00",
+        "2000-09-06 01:35:00-07:00",
+        "2000-09-06 01:35:00-07:00",
+        "2000-08-31 08:13:00-07:00",
+        "2000-08-31 05:10:00-07:00",
+        "2000-08-31 03:52:00-07:00",
+        "2000-08-31 03:37:00-07:00",
+        "2000-08-31 03:21:00-07:00",
+        "2000-08-25 03:02:00-07:00"
+      ],
+      "first_seen": "2000-08-25 03:02:00-07:00",
+      "last_seen": "2001-04-04 16:26:00-07:00"
+    },
+    "('eric.bass@enron.com', 'dfranklin@hanovermeasurement.com')": {
+      "weight": 9,
+      "timestamps": [
+        "2000-12-06 00:33:00-08:00",
+        "2000-12-05 23:39:00-08:00",
+        "2000-12-04 03:14:00-08:00",
+        "2000-12-04 03:13:00-08:00",
+        "2000-11-21 03:50:00-08:00",
+        "2000-12-18 08:00:00-08:00",
+        "2000-11-16 06:58:00-08:00",
+        "2000-11-15 08:44:00-08:00",
+        "2000-11-14 07:09:00-08:00"
+      ],
+      "first_seen": "2000-11-14 07:09:00-08:00",
+      "last_seen": "2000-12-18 08:00:00-08:00"
+    },
+    "('eric.bass@enron.com', 'shanna.husser@enron.com')": {
+      "weight": 128,
+      "timestamps": [
+        "2000-12-06 00:33:00-08:00",
+        "2001-04-09 09:04:00-07:00",
+        "2001-04-09 04:41:00-07:00",
+        "2000-12-05 23:39:00-08:00",
+        "2000-12-05 03:12:00-08:00",
+        "2001-03-26 04:29:00-08:00",
+        "2001-03-12 07:36:00-08:00",
+        "2001-03-08 08:47:00-08:00",
+        "2001-03-08 06:44:00-08:00",
+        "2001-03-08 03:34:00-08:00",
+        "2001-03-08 03:29:00-08:00",
+        "2001-03-08 02:01:00-08:00",
+        "2001-03-02 04:00:00-08:00",
+        "2001-03-02 03:45:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2001-02-23 01:13:00-08:00",
+        "2001-02-21 04:03:00-08:00",
+        "2001-02-21 00:16:00-08:00",
+        "2000-12-04 05:50:00-08:00",
+        "2001-02-20 08:55:00-08:00",
+        "2001-02-20 08:21:00-08:00",
+        "2001-02-20 05:38:00-08:00",
+        "2001-02-20 02:48:00-08:00",
+        "2000-12-04 04:43:00-08:00",
+        "2001-02-14 08:55:00-08:00",
+        "2001-02-14 08:35:00-08:00",
+        "2000-12-04 03:14:00-08:00",
+        "2001-02-14 00:34:00-08:00",
+        "2000-12-04 03:13:00-08:00",
+        "2001-02-12 03:37:00-08:00",
+        "2001-02-12 03:37:00-08:00",
+        "2001-02-07 01:55:00-08:00",
+        "2001-02-07 00:32:00-08:00",
+        "2001-02-06 06:11:00-08:00",
+        "2001-02-06 02:51:00-08:00",
+        "2001-01-31 08:42:00-08:00",
+        "2001-01-31 08:42:00-08:00",
+        "2001-01-31 05:03:00-08:00",
+        "2001-01-31 05:03:00-08:00",
+        "2001-01-30 04:05:00-08:00",
+        "2001-01-30 01:38:00-08:00",
+        "2001-01-29 02:02:00-08:00",
+        "2000-11-30 02:50:00-08:00",
+        "2001-01-26 01:49:00-08:00",
+        "2001-01-26 01:35:00-08:00",
+        "2001-01-24 23:59:00-08:00",
+        "2001-01-23 00:44:00-08:00",
+        "2000-11-28 23:59:00-08:00",
+        "2001-01-16 03:14:00-08:00",
+        "2000-11-28 01:32:00-08:00",
+        "2001-01-11 05:35:00-08:00",
+        "2001-01-10 00:06:00-08:00",
+        "2001-01-09 23:53:00-08:00",
+        "2001-01-09 01:27:00-08:00",
+        "2000-11-28 01:03:00-08:00",
+        "2001-01-08 03:33:00-08:00",
+        "2000-12-28 02:02:00-08:00",
+        "2000-12-28 02:02:00-08:00",
+        "2000-12-28 01:20:00-08:00",
+        "2000-12-27 02:57:00-08:00",
+        "2000-12-27 02:53:00-08:00",
+        "2000-12-27 02:44:00-08:00",
+        "2000-12-27 01:48:00-08:00",
+        "2000-12-27 01:48:00-08:00",
+        "2000-11-27 01:41:00-08:00",
+        "2000-12-21 01:36:00-08:00",
+        "2000-12-21 01:27:00-08:00",
+        "2000-12-20 06:07:00-08:00",
+        "2000-12-20 06:07:00-08:00",
+        "2000-12-20 04:22:00-08:00",
+        "2000-12-20 00:39:00-08:00",
+        "2000-12-20 00:05:00-08:00",
+        "2000-11-21 03:50:00-08:00",
+        "2000-12-19 07:54:00-08:00",
+        "2000-12-18 08:00:00-08:00",
+        "2000-12-18 03:21:00-08:00",
+        "2000-12-18 01:15:00-08:00",
+        "2000-11-20 08:47:00-08:00",
+        "2000-11-17 01:59:00-08:00",
+        "2000-11-17 00:30:00-08:00",
+        "2000-11-16 07:21:00-08:00",
+        "2000-10-24 03:22:00-07:00",
+        "2000-10-24 02:57:00-07:00",
+        "2000-11-15 09:02:00-08:00",
+        "2000-11-15 08:44:00-08:00",
+        "2000-11-15 03:02:00-08:00",
+        "2000-11-14 07:09:00-08:00",
+        "2000-11-13 07:28:00-08:00",
+        "2000-11-08 08:33:00-08:00",
+        "2000-11-08 03:59:00-08:00",
+        "2000-11-07 01:49:00-08:00",
+        "2000-11-06 08:22:00-08:00",
+        "2000-11-06 02:07:00-08:00",
+        "2000-11-06 01:09:00-08:00",
+        "2001-03-12 18:36:00-08:00",
+        "2001-03-26 15:29:00-08:00",
+        "2000-11-01 04:34:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-26 06:09:00-07:00",
+        "2000-10-23 01:26:00-07:00",
+        "2000-10-19 09:51:00-07:00",
+        "2000-10-19 02:04:00-07:00",
+        "2000-10-17 04:53:00-07:00",
+        "2000-10-12 01:23:00-07:00",
+        "2000-10-11 02:22:00-07:00",
+        "2000-10-06 05:06:00-07:00",
+        "2000-10-04 07:02:00-07:00",
+        "2000-09-28 05:51:00-07:00",
+        "2000-09-27 02:54:00-07:00",
+        "2000-09-25 07:14:00-07:00",
+        "2000-09-21 07:50:00-07:00",
+        "2000-09-21 05:54:00-07:00",
+        "2000-09-21 05:54:00-07:00",
+        "2000-09-21 05:41:00-07:00",
+        "2000-09-21 05:07:00-07:00",
+        "2001-04-09 14:41:00-07:00",
+        "2001-04-09 19:04:00-07:00",
+        "2000-08-31 08:33:00-07:00",
+        "2000-08-31 08:30:00-07:00",
+        "2000-08-31 05:48:00-07:00",
+        "2000-08-31 05:48:00-07:00",
+        "2000-08-31 05:43:00-07:00",
+        "2000-08-31 05:06:00-07:00",
+        "2000-08-31 01:58:00-07:00",
+        "2000-08-30 03:37:00-07:00",
+        "2000-08-29 05:41:00-07:00",
+        "2000-08-25 02:25:00-07:00"
+      ],
+      "first_seen": "2000-08-25 02:25:00-07:00",
+      "last_seen": "2001-04-09 19:04:00-07:00"
+    },
+    "('eric.bass@enron.com', 'b.lawler@mail.utexas.edu')": {
+      "weight": 1,
+      "timestamps": [
+        "1999-12-13 06:32:00-08:00"
+      ],
+      "first_seen": "1999-12-13 06:32:00-08:00",
+      "last_seen": "1999-12-13 06:32:00-08:00"
+    },
+    "('eric.bass@enron.com', 'greg.couch@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "1999-12-13 02:51:00-08:00"
+      ],
+      "first_seen": "1999-12-13 02:51:00-08:00",
+      "last_seen": "1999-12-13 02:51:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'ina.rangel@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-08-16 03:59:00-07:00"
+      ],
+      "first_seen": "2000-08-16 03:59:00-07:00",
+      "last_seen": "2000-08-16 03:59:00-07:00"
+    },
+    "('eric.bass@enron.com', 'jim.schwieger@enron.com')": {
+      "weight": 5,
+      "timestamps": [
+        "2001-04-06 08:18:00-07:00",
+        "2001-02-23 01:13:00-08:00",
+        "2000-11-15 03:02:00-08:00",
+        "2000-11-13 07:28:00-08:00",
+        "2001-04-06 18:18:00-07:00"
+      ],
+      "first_seen": "2000-11-13 07:28:00-08:00",
+      "last_seen": "2001-04-06 18:18:00-07:00"
+    },
+    "('eric.bass@enron.com', 'thomas.martin@enron.com')": {
+      "weight": 8,
+      "timestamps": [
+        "2001-04-06 08:18:00-07:00",
+        "2000-11-09 02:47:00-08:00",
+        "2000-11-09 02:47:00-08:00",
+        "2000-11-08 09:17:00-08:00",
+        "2000-09-18 09:22:00-07:00",
+        "2000-09-18 09:22:00-07:00",
+        "2001-04-06 18:18:00-07:00",
+        "2000-09-11 04:46:00-07:00"
+      ],
+      "first_seen": "2000-09-11 04:46:00-07:00",
+      "last_seen": "2001-04-06 18:18:00-07:00"
+    },
+    "('eric.bass@enron.com', 'jbass@stdauto.com')": {
+      "weight": 13,
+      "timestamps": [
+        "2001-03-30 02:51:00-08:00",
+        "2001-03-30 01:54:00-08:00",
+        "2001-03-30 01:46:00-08:00",
+        "2001-03-30 00:38:00-08:00",
+        "2001-03-29 08:24:00-08:00",
+        "2001-02-21 04:03:00-08:00",
+        "2001-02-21 03:11:00-08:00",
+        "2001-02-21 02:12:00-08:00",
+        "2001-03-29 19:24:00-08:00",
+        "2001-03-30 11:38:00-08:00",
+        "2001-03-30 12:46:00-08:00",
+        "2001-03-30 12:54:00-08:00",
+        "2001-03-30 13:51:00-08:00"
+      ],
+      "first_seen": "2001-02-21 02:12:00-08:00",
+      "last_seen": "2001-03-30 13:51:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'jacquestc@aol.com')": {
+      "weight": 7,
+      "timestamps": [
+        "2001-03-14 03:49:00-08:00",
+        "2001-03-14 03:25:00-08:00",
+        "2001-03-05 07:21:00-08:00",
+        "2001-03-05 07:21:00-08:00",
+        "2001-02-20 23:04:00-08:00",
+        "2001-02-20 01:38:00-08:00",
+        "2001-02-07 01:58:00-08:00"
+      ],
+      "first_seen": "2001-02-07 01:58:00-08:00",
+      "last_seen": "2001-03-14 03:49:00-08:00"
+    },
+    "('eric.bass@enron.com', 'mike.wellings@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-03-27 02:15:00-08:00",
+        "2001-03-27 13:15:00-08:00"
+      ],
+      "first_seen": "2001-03-27 02:15:00-08:00",
+      "last_seen": "2001-03-27 13:15:00-08:00"
+    },
+    "('eric.bass@enron.com', 'natalie.wells@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-03-27 00:59:00-08:00",
+        "2001-03-27 11:59:00-08:00"
+      ],
+      "first_seen": "2001-03-27 00:59:00-08:00",
+      "last_seen": "2001-03-27 11:59:00-08:00"
+    },
+    "('eric.bass@enron.com', 'gary.lamphier@enron.com')": {
+      "weight": 38,
+      "timestamps": [
+        "2001-03-26 04:59:00-08:00",
+        "2001-03-07 02:24:00-08:00",
+        "2001-03-05 23:46:00-08:00",
+        "2000-11-30 05:34:00-08:00",
+        "2001-01-26 02:18:00-08:00",
+        "2000-11-29 08:42:00-08:00",
+        "2001-01-09 00:06:00-08:00",
+        "2001-01-05 03:54:00-08:00",
+        "2001-01-05 03:54:00-08:00",
+        "2001-01-05 02:19:00-08:00",
+        "2001-01-03 02:18:00-08:00",
+        "2000-12-27 01:17:00-08:00",
+        "2000-11-17 01:59:00-08:00",
+        "2000-11-15 00:28:00-08:00",
+        "2000-11-15 00:02:00-08:00",
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-10-31 02:36:00-08:00",
+        "2001-03-26 15:59:00-08:00",
+        "2000-10-30 01:37:00-08:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-10-11 02:22:00-07:00",
+        "2000-09-29 02:44:00-07:00",
+        "2000-09-29 02:44:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-28 02:48:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-18 05:13:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-08-31 05:10:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-28 07:06:00-07:00",
+        "2000-08-28 02:32:00-07:00"
+      ],
+      "first_seen": "2000-08-28 02:32:00-07:00",
+      "last_seen": "2001-03-26 15:59:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'tori.kuykendall@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-13 08:01:00-08:00"
+      ],
+      "first_seen": "2001-03-13 08:01:00-08:00",
+      "last_seen": "2001-03-13 08:01:00-08:00"
+    },
+    "('eric.bass@enron.com', 'melba.lozano@enron.com')": {
+      "weight": 23,
+      "timestamps": [
+        "2000-12-05 00:24:00-08:00",
+        "2000-12-05 00:24:00-08:00",
+        "2001-02-22 00:13:00-08:00",
+        "2001-02-22 00:13:00-08:00",
+        "2001-02-20 06:47:00-08:00",
+        "2001-02-16 01:28:00-08:00",
+        "2001-02-16 01:28:00-08:00",
+        "2001-02-14 01:03:00-08:00",
+        "2001-02-14 01:03:00-08:00",
+        "2001-01-24 01:04:00-08:00",
+        "2001-01-24 01:04:00-08:00",
+        "2001-01-19 04:08:00-08:00",
+        "2001-01-19 04:08:00-08:00",
+        "2000-12-28 02:17:00-08:00",
+        "2000-12-28 02:17:00-08:00",
+        "2000-12-20 00:57:00-08:00",
+        "2000-12-20 00:57:00-08:00",
+        "2000-10-06 01:03:00-07:00",
+        "2000-10-06 01:03:00-07:00",
+        "2000-10-06 00:54:00-07:00",
+        "2000-10-06 00:54:00-07:00",
+        "2000-09-21 09:10:00-07:00",
+        "2000-09-21 09:10:00-07:00"
+      ],
+      "first_seen": "2000-09-21 09:10:00-07:00",
+      "last_seen": "2001-02-22 00:13:00-08:00"
+    },
+    "('eric.bass@enron.com', 'robert.cass@enron.com')": {
+      "weight": 16,
+      "timestamps": [
+        "2000-12-05 00:24:00-08:00",
+        "2001-02-22 00:13:00-08:00",
+        "2001-02-16 01:28:00-08:00",
+        "2001-02-14 01:03:00-08:00",
+        "2001-01-24 01:04:00-08:00",
+        "2001-01-19 04:08:00-08:00",
+        "2000-11-27 08:42:00-08:00",
+        "2000-12-28 02:17:00-08:00",
+        "2000-11-21 04:48:00-08:00",
+        "2000-12-20 06:58:00-08:00",
+        "2000-12-20 00:57:00-08:00",
+        "2000-10-06 01:27:00-07:00",
+        "2000-10-06 01:03:00-07:00",
+        "2000-10-06 00:54:00-07:00",
+        "2000-09-21 09:10:00-07:00",
+        "2000-09-21 07:14:00-07:00"
+      ],
+      "first_seen": "2000-09-21 07:14:00-07:00",
+      "last_seen": "2001-02-22 00:13:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'cbpres@austin.rr.com')": {
+      "weight": 9,
+      "timestamps": [
+        "2001-03-13 01:10:00-08:00",
+        "2001-03-05 22:56:00-08:00",
+        "2001-03-05 07:21:00-08:00",
+        "2001-02-23 08:24:00-08:00",
+        "2001-02-23 07:01:00-08:00",
+        "2001-02-23 03:15:00-08:00",
+        "2001-02-21 07:58:00-08:00",
+        "2001-02-20 01:09:00-08:00",
+        "2001-02-17 06:18:00-08:00"
+      ],
+      "first_seen": "2001-02-17 06:18:00-08:00",
+      "last_seen": "2001-03-13 01:10:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'llewter@austin.rr.com')": {
+      "weight": 6,
+      "timestamps": [
+        "2001-03-13 01:10:00-08:00",
+        "2001-03-13 01:10:00-08:00",
+        "2001-03-05 22:56:00-08:00",
+        "2001-03-05 22:56:00-08:00",
+        "2001-03-05 07:21:00-08:00",
+        "2001-03-05 07:21:00-08:00"
+      ],
+      "first_seen": "2001-03-05 07:21:00-08:00",
+      "last_seen": "2001-03-13 01:10:00-08:00"
+    },
+    "('eric.bass@enron.com', 'dalton.hogan@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-03-13 05:23:00-08:00",
+        "2001-03-13 16:23:00-08:00"
+      ],
+      "first_seen": "2001-03-13 05:23:00-08:00",
+      "last_seen": "2001-03-13 16:23:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'matt.smith@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-12 03:48:00-08:00"
+      ],
+      "first_seen": "2001-03-12 03:48:00-08:00",
+      "last_seen": "2001-03-12 03:48:00-08:00"
+    },
+    "('eric.bass@enron.com', 'eric.bass@enron.com')": {
+      "weight": 5,
+      "timestamps": [
+        "2000-12-04 08:46:00-08:00",
+        "2000-12-04 08:46:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2001-03-01 02:51:00-08:00",
+        "2000-09-25 03:02:00-07:00"
+      ],
+      "first_seen": "2000-09-25 03:02:00-07:00",
+      "last_seen": "2001-03-01 02:51:00-08:00"
+    },
+    "('eric.bass@enron.com', 'andrea.richards@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-03-06 23:28:00-08:00",
+        "2001-01-08 05:08:00-08:00"
+      ],
+      "first_seen": "2001-01-08 05:08:00-08:00",
+      "last_seen": "2001-03-06 23:28:00-08:00"
+    },
+    "('eric.bass@enron.com', 'mmmarcantel@equiva.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-03-01 02:51:00-08:00",
+        "2001-03-01 02:51:00-08:00"
+      ],
+      "first_seen": "2001-03-01 02:51:00-08:00",
+      "last_seen": "2001-03-01 02:51:00-08:00"
+    },
+    "('eric.bass@enron.com', 'susan.scott@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-03-01 02:51:00-08:00",
+        "2001-03-01 02:51:00-08:00"
+      ],
+      "first_seen": "2001-03-01 02:51:00-08:00",
+      "last_seen": "2001-03-01 02:51:00-08:00"
+    },
+    "('ina.rangel@enron.com', 'information.management@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-08 06:46:00-08:00"
+      ],
+      "first_seen": "2001-03-08 06:46:00-08:00",
+      "last_seen": "2001-03-08 06:46:00-08:00"
+    },
+    "('eric.bass@enron.com', 'jason.moore@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-21 05:03:00-08:00"
+      ],
+      "first_seen": "2001-02-21 05:03:00-08:00",
+      "last_seen": "2001-02-21 05:03:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'del@living.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-12-06 04:41:00-08:00"
+      ],
+      "first_seen": "2000-12-06 04:41:00-08:00",
+      "last_seen": "2000-12-06 04:41:00-08:00"
+    },
+    "('eric.bass@enron.com', 'james.wininger@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-20 01:29:00-08:00"
+      ],
+      "first_seen": "2001-02-20 01:29:00-08:00",
+      "last_seen": "2001-02-20 01:29:00-08:00"
+    },
+    "('eric.bass@enron.com', 'zachary.mccarroll@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-02-20 01:29:00-08:00",
+        "2001-02-20 01:29:00-08:00"
+      ],
+      "first_seen": "2001-02-20 01:29:00-08:00",
+      "last_seen": "2001-02-20 01:29:00-08:00"
+    },
+    "('eric.bass@enron.com', 'direct@hpftd1.ftdi.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-02-20 00:18:00-08:00",
+        "2001-02-14 08:25:00-08:00"
+      ],
+      "first_seen": "2001-02-14 08:25:00-08:00",
+      "last_seen": "2001-02-20 00:18:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'robert.badeer@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-07 05:00:00-08:00"
+      ],
+      "first_seen": "2001-03-07 05:00:00-08:00",
+      "last_seen": "2001-03-07 05:00:00-08:00"
+    },
+    "('eric.bass@enron.com', 'edie.leschber@enron.com')": {
+      "weight": 3,
+      "timestamps": [
+        "2001-02-14 03:06:00-08:00",
+        "2001-02-12 08:36:00-08:00",
+        "2001-02-02 04:36:00-08:00"
+      ],
+      "first_seen": "2001-02-02 04:36:00-08:00",
+      "last_seen": "2001-02-14 03:06:00-08:00"
+    },
+    "('eric.bass@enron.com', 'craig.breslau@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-13 03:28:00-08:00"
+      ],
+      "first_seen": "2001-02-13 03:28:00-08:00",
+      "last_seen": "2001-02-13 03:28:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'rlehmann@yahoo.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-07 04:09:00-08:00"
+      ],
+      "first_seen": "2001-03-07 04:09:00-08:00",
+      "last_seen": "2001-03-07 04:09:00-08:00"
+    },
+    "('eric.bass@enron.com', 'laura.vuittonet@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-12 02:57:00-08:00"
+      ],
+      "first_seen": "2001-02-12 02:57:00-08:00",
+      "last_seen": "2001-02-12 02:57:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'jsmith@austintx.com')": {
+      "weight": 4,
+      "timestamps": [
+        "2001-03-07 02:36:00-08:00",
+        "2001-03-07 01:52:00-08:00",
+        "2001-02-16 00:52:00-08:00",
+        "2001-02-07 06:54:00-08:00"
+      ],
+      "first_seen": "2001-02-07 06:54:00-08:00",
+      "last_seen": "2001-03-07 02:36:00-08:00"
+    },
+    "('eric.bass@enron.com', 'jay.reitmeyer@enron.com')": {
+      "weight": 3,
+      "timestamps": [
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 05:00:00-08:00",
+        "2001-02-08 04:47:00-08:00"
+      ],
+      "first_seen": "2001-02-08 04:47:00-08:00",
+      "last_seen": "2001-02-08 05:00:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'djack@stic.net')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-06 10:45:00-08:00"
+      ],
+      "first_seen": "2001-03-06 10:45:00-08:00",
+      "last_seen": "2001-03-06 10:45:00-08:00"
+    },
+    "('eric.bass@enron.com', 'greg.mcclendon@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-02 00:23:00-08:00"
+      ],
+      "first_seen": "2001-02-02 00:23:00-08:00",
+      "last_seen": "2001-02-02 00:23:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'al.pollard@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-06 02:55:00-08:00"
+      ],
+      "first_seen": "2001-03-06 02:55:00-08:00",
+      "last_seen": "2001-03-06 02:55:00-08:00"
+    },
+    "('eric.bass@enron.com', 'sferrarini@equiva.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-01-31 05:03:00-08:00"
+      ],
+      "first_seen": "2001-01-31 05:03:00-08:00",
+      "last_seen": "2001-01-31 05:03:00-08:00"
+    },
+    "('eric.bass@enron.com', 'clickathome@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-01-25 04:39:00-08:00"
+      ],
+      "first_seen": "2001-01-25 04:39:00-08:00",
+      "last_seen": "2001-01-25 04:39:00-08:00"
+    },
+    "('ina.rangel@enron.com', 'amanda.huble@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-12-05 07:31:00-08:00"
+      ],
+      "first_seen": "2000-12-05 07:31:00-08:00",
+      "last_seen": "2000-12-05 07:31:00-08:00"
+    },
+    "('eric.bass@enron.com', 'greg.martin@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-01-23 04:46:00-08:00"
+      ],
+      "first_seen": "2001-01-23 04:46:00-08:00",
+      "last_seen": "2001-01-23 04:46:00-08:00"
+    },
+    "('eric.bass@enron.com', 'william.kelly@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-11-29 08:41:00-08:00"
+      ],
+      "first_seen": "2000-11-29 08:41:00-08:00",
+      "last_seen": "2000-11-29 08:41:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'jim123@pdq.net')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-05 05:54:00-08:00"
+      ],
+      "first_seen": "2001-03-05 05:54:00-08:00",
+      "last_seen": "2001-03-05 05:54:00-08:00"
+    },
+    "('eric.bass@enron.com', 'ina.rangel@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-01-19 00:56:00-08:00"
+      ],
+      "first_seen": "2001-01-19 00:56:00-08:00",
+      "last_seen": "2001-01-19 00:56:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'angela.collins@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-05 03:16:00-08:00"
+      ],
+      "first_seen": "2001-03-05 03:16:00-08:00",
+      "last_seen": "2001-03-05 03:16:00-08:00"
+    },
+    "('eric.bass@enron.com', 'paul.lucci@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-01-18 03:22:00-08:00",
+        "2001-01-18 03:22:00-08:00"
+      ],
+      "first_seen": "2001-01-18 03:22:00-08:00",
+      "last_seen": "2001-01-18 03:22:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'don.black@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-03-05 01:38:00-08:00"
+      ],
+      "first_seen": "2001-03-05 01:38:00-08:00",
+      "last_seen": "2001-03-05 01:38:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'mike.grigsby@enron.com')": {
+      "weight": 5,
+      "timestamps": [
+        "2001-03-04 23:05:00-08:00",
+        "2001-02-22 00:45:00-08:00",
+        "2001-02-14 00:24:00-08:00",
+        "2001-02-06 23:15:00-08:00",
+        "2001-02-06 06:12:00-08:00"
+      ],
+      "first_seen": "2001-02-06 06:12:00-08:00",
+      "last_seen": "2001-03-04 23:05:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'bnelson@situscos.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-27 00:58:00-08:00"
+      ],
+      "first_seen": "2001-02-27 00:58:00-08:00",
+      "last_seen": "2001-02-27 00:58:00-08:00"
+    },
+    "('eric.bass@enron.com', 'jbass1@houston.rr.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-01-08 04:23:00-08:00",
+        "2001-01-08 02:46:00-08:00"
+      ],
+      "first_seen": "2001-01-08 02:46:00-08:00",
+      "last_seen": "2001-01-08 04:23:00-08:00"
+    },
+    "('eric.bass@enron.com', 'dirtyred2u@webtv.net')": {
+      "weight": 3,
+      "timestamps": [
+        "2001-01-05 06:17:00-08:00",
+        "2001-01-05 06:05:00-08:00",
+        "2001-01-05 04:27:00-08:00"
+      ],
+      "first_seen": "2001-01-05 04:27:00-08:00",
+      "last_seen": "2001-01-05 06:17:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'keith.holst@enron.com')": {
+      "weight": 9,
+      "timestamps": [
+        "2001-02-23 06:28:00-08:00",
+        "2001-02-22 00:45:00-08:00",
+        "2001-02-21 07:57:00-08:00",
+        "2001-02-21 07:57:00-08:00",
+        "2001-04-30 13:37:00-07:00",
+        "2001-02-21 07:31:00-08:00",
+        "2001-02-14 00:24:00-08:00",
+        "2000-08-09 07:12:00-07:00",
+        "2001-02-06 23:15:00-08:00"
+      ],
+      "first_seen": "2000-08-09 07:12:00-07:00",
+      "last_seen": "2001-04-30 13:37:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'stephanie.sever@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-08-10 15:02:00-07:00"
+      ],
+      "first_seen": "2000-08-10 15:02:00-07:00",
+      "last_seen": "2000-08-10 15:02:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'barry.tycholiz@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-23 03:17:00-08:00"
+      ],
+      "first_seen": "2001-02-23 03:17:00-08:00",
+      "last_seen": "2001-02-23 03:17:00-08:00"
+    },
+    "('eric.bass@enron.com', 'hkauffman@mail.utexas.edu')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-01-02 07:02:00-08:00"
+      ],
+      "first_seen": "2001-01-02 07:02:00-08:00",
+      "last_seen": "2001-01-02 07:02:00-08:00"
+    },
+    "('arsystem@mailman.enron.com', 'phillip.k.allen@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-12-13 11:02:00-08:00"
+      ],
+      "first_seen": "2000-12-13 11:02:00-08:00",
+      "last_seen": "2000-12-13 11:02:00-08:00"
+    },
+    "('tim.belden@enron.com', 'phillip.allen@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-12-04 22:42:00-08:00"
+      ],
+      "first_seen": "2000-12-04 22:42:00-08:00",
+      "last_seen": "2000-12-04 22:42:00-08:00"
+    },
+    "('eric.bass@enron.com', 'dale.neuner@enron.com')": {
+      "weight": 9,
+      "timestamps": [
+        "2000-11-21 04:48:00-08:00",
+        "2000-11-21 04:48:00-08:00",
+        "2000-10-06 01:03:00-07:00",
+        "2000-10-06 01:03:00-07:00",
+        "2000-10-06 00:54:00-07:00",
+        "2000-10-06 00:54:00-07:00",
+        "2000-09-21 09:10:00-07:00",
+        "2000-09-21 09:10:00-07:00",
+        "2000-09-18 09:22:00-07:00"
+      ],
+      "first_seen": "2000-09-18 09:22:00-07:00",
+      "last_seen": "2000-11-21 04:48:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'frank.ermis@enron.com')": {
+      "weight": 4,
+      "timestamps": [
+        "2001-02-22 00:45:00-08:00",
+        "2001-02-12 03:57:00-08:00",
+        "2001-02-12 03:09:00-08:00",
+        "2000-11-29 02:02:00-08:00"
+      ],
+      "first_seen": "2000-11-29 02:02:00-08:00",
+      "last_seen": "2001-02-22 00:45:00-08:00"
+    },
+    "('eric.bass@enron.com', 'paul.burkhart@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-11-14 23:42:00-08:00",
+        "2000-11-14 04:17:00-08:00"
+      ],
+      "first_seen": "2000-11-14 04:17:00-08:00",
+      "last_seen": "2000-11-14 23:42:00-08:00"
+    },
+    "('eric.bass@enron.com', 'christopher.chenoweth@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-11-14 04:17:00-08:00"
+      ],
+      "first_seen": "2000-11-14 04:17:00-08:00",
+      "last_seen": "2000-11-14 04:17:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'tara.piazze@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-21 07:37:00-08:00"
+      ],
+      "first_seen": "2001-02-21 07:37:00-08:00",
+      "last_seen": "2001-02-21 07:37:00-08:00"
+    },
+    "('eric.bass@enron.com', 'chris.gaskill@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-11-13 02:34:00-08:00"
+      ],
+      "first_seen": "2000-11-13 02:34:00-08:00",
+      "last_seen": "2000-11-13 02:34:00-08:00"
+    },
+    "('eric.bass@enron.com', 'faith.killen@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-11-09 02:47:00-08:00"
+      ],
+      "first_seen": "2000-11-09 02:47:00-08:00",
+      "last_seen": "2000-11-09 02:47:00-08:00"
+    },
+    "('ina.rangel@enron.com', 'john.lavorato@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-21 07:22:00-08:00"
+      ],
+      "first_seen": "2001-02-21 07:22:00-08:00",
+      "last_seen": "2001-02-21 07:22:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'body.shop@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-21 03:05:00-08:00"
+      ],
+      "first_seen": "2001-02-21 03:05:00-08:00",
+      "last_seen": "2001-02-21 03:05:00-08:00"
+    },
+    "('eric.bass@enron.com', 'amir.ahanchian@enron.com')": {
+      "weight": 13,
+      "timestamps": [
+        "2000-11-01 06:55:00-08:00",
+        "2000-10-30 02:16:00-08:00",
+        "2000-10-17 01:23:00-07:00",
+        "2000-10-10 02:21:00-07:00",
+        "2000-10-04 06:05:00-07:00",
+        "2000-10-02 03:33:00-07:00",
+        "2000-09-27 01:25:00-07:00",
+        "2000-09-25 06:20:00-07:00",
+        "2000-09-20 02:29:00-07:00",
+        "2000-09-20 01:12:00-07:00",
+        "2000-09-18 07:04:00-07:00",
+        "2000-09-13 01:22:00-07:00",
+        "2000-09-13 01:22:00-07:00"
+      ],
+      "first_seen": "2000-09-13 01:22:00-07:00",
+      "last_seen": "2000-11-01 06:55:00-08:00"
+    },
+    "('eric.bass@enron.com', 'jeffrey.gossett@enron.com')": {
+      "weight": 16,
+      "timestamps": [
+        "2000-11-01 06:55:00-08:00",
+        "2000-10-30 02:16:00-08:00",
+        "2000-10-18 03:59:00-07:00",
+        "2000-10-17 01:23:00-07:00",
+        "2000-10-10 02:21:00-07:00",
+        "2000-10-04 06:05:00-07:00",
+        "2000-10-04 01:45:00-07:00",
+        "2000-10-04 01:14:00-07:00",
+        "2000-10-02 03:33:00-07:00",
+        "2000-09-27 01:25:00-07:00",
+        "2000-09-25 06:20:00-07:00",
+        "2000-09-20 03:00:00-07:00",
+        "2000-09-20 02:29:00-07:00",
+        "2000-09-20 01:12:00-07:00",
+        "2000-09-18 07:04:00-07:00",
+        "2000-09-13 01:22:00-07:00"
+      ],
+      "first_seen": "2000-09-13 01:22:00-07:00",
+      "last_seen": "2000-11-01 06:55:00-08:00"
+    },
+    "('eric.bass@enron.com', 'kenneth.shulklapper@enron.com')": {
+      "weight": 15,
+      "timestamps": [
+        "2000-11-01 06:55:00-08:00",
+        "2000-10-30 02:16:00-08:00",
+        "2000-10-18 03:59:00-07:00",
+        "2000-10-17 01:23:00-07:00",
+        "2000-10-10 02:21:00-07:00",
+        "2000-10-04 06:05:00-07:00",
+        "2000-10-02 03:33:00-07:00",
+        "2000-09-27 01:25:00-07:00",
+        "2000-09-25 06:20:00-07:00",
+        "2000-09-20 02:29:00-07:00",
+        "2000-09-20 01:12:00-07:00",
+        "2000-09-18 07:04:00-07:00",
+        "2000-09-13 01:22:00-07:00",
+        "2000-09-11 07:58:00-07:00",
+        "2000-09-05 04:07:00-07:00"
+      ],
+      "first_seen": "2000-09-05 04:07:00-07:00",
+      "last_seen": "2000-11-01 06:55:00-08:00"
+    },
+    "('eric.bass@enron.com', 'micah.hatten@enron.com')": {
+      "weight": 8,
+      "timestamps": [
+        "2000-11-01 06:55:00-08:00",
+        "2000-11-01 06:55:00-08:00",
+        "2000-10-18 06:38:00-07:00",
+        "2000-10-18 03:59:00-07:00",
+        "2000-10-10 06:23:00-07:00",
+        "2000-10-04 06:05:00-07:00",
+        "2000-10-04 06:05:00-07:00",
+        "2000-10-04 01:14:00-07:00"
+      ],
+      "first_seen": "2000-10-04 01:14:00-07:00",
+      "last_seen": "2000-11-01 06:55:00-08:00"
+    },
+    "('eric.bass@enron.com', 'lqcolombo@aol.com')": {
+      "weight": 16,
+      "timestamps": [
+        "2000-11-01 02:39:00-08:00",
+        "2000-11-01 02:21:00-08:00",
+        "2000-10-19 03:49:00-07:00",
+        "2000-09-28 05:13:00-07:00",
+        "2000-09-21 05:20:00-07:00",
+        "2000-09-21 04:59:00-07:00",
+        "2000-09-19 04:52:00-07:00",
+        "2000-09-18 05:13:00-07:00",
+        "2000-09-13 06:40:00-07:00",
+        "2000-09-06 09:43:00-07:00",
+        "2000-09-05 09:01:00-07:00",
+        "2000-09-05 01:55:00-07:00",
+        "2000-09-05 01:54:00-07:00",
+        "2000-08-31 00:57:00-07:00",
+        "2000-08-28 07:06:00-07:00",
+        "2000-08-25 00:54:00-07:00"
+      ],
+      "first_seen": "2000-08-25 00:54:00-07:00",
+      "last_seen": "2000-11-01 02:39:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'colleen.sullivan@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-12-04 06:23:00-08:00",
+        "2001-02-13 05:44:00-08:00"
+      ],
+      "first_seen": "2000-12-04 06:23:00-08:00",
+      "last_seen": "2001-02-13 05:44:00-08:00"
+    },
+    "('eric.bass@enron.com', 'allison.easton@enron.com')": {
+      "weight": 6,
+      "timestamps": [
+        "2000-10-31 01:02:00-08:00",
+        "2000-10-05 01:11:00-07:00",
+        "2000-10-04 10:05:00-07:00",
+        "2000-10-04 09:55:00-07:00",
+        "2000-10-04 09:01:00-07:00",
+        "2000-09-28 10:19:00-07:00"
+      ],
+      "first_seen": "2000-09-28 10:19:00-07:00",
+      "last_seen": "2000-10-31 01:02:00-08:00"
+    },
+    "('eric.bass@enron.com', 'laura.harder@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-10-30 08:07:00-08:00"
+      ],
+      "first_seen": "2000-10-30 08:07:00-08:00",
+      "last_seen": "2000-10-30 08:07:00-08:00"
+    },
+    "('eric.bass@enron.com', 'acahanchian@zdnetonebox.com')": {
+      "weight": 11,
+      "timestamps": [
+        "2000-10-30 02:16:00-08:00",
+        "2000-10-30 02:16:00-08:00",
+        "2000-10-17 01:24:00-07:00",
+        "2000-10-11 00:56:00-07:00",
+        "2000-10-03 05:36:00-07:00",
+        "2000-10-03 05:14:00-07:00",
+        "2000-10-02 03:33:00-07:00",
+        "2000-10-02 03:33:00-07:00",
+        "2000-09-27 02:38:00-07:00",
+        "2000-09-26 10:01:00-07:00",
+        "2000-09-26 06:41:00-07:00"
+      ],
+      "first_seen": "2000-09-26 06:41:00-07:00",
+      "last_seen": "2000-10-30 02:16:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'frank.hayden@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-20 23:02:00-08:00"
+      ],
+      "first_seen": "2001-02-20 23:02:00-08:00",
+      "last_seen": "2001-02-20 23:02:00-08:00"
+    },
+    "('eric.bass@enron.com', 'matt.motsinger@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-10-26 05:05:00-07:00"
+      ],
+      "first_seen": "2000-10-26 05:05:00-07:00",
+      "last_seen": "2000-10-26 05:05:00-07:00"
+    },
+    "('eric.bass@enron.com', 'chris.walker@enron.com')": {
+      "weight": 7,
+      "timestamps": [
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-24 07:24:00-07:00",
+        "2000-10-16 06:30:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:56:00-07:00",
+        "2000-10-16 01:53:00-07:00",
+        "2000-10-16 01:53:00-07:00"
+      ],
+      "first_seen": "2000-10-16 01:53:00-07:00",
+      "last_seen": "2000-10-24 07:24:00-07:00"
+    },
+    "('eric.bass@enron.com', 'community-relations@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-10-20 03:41:00-07:00"
+      ],
+      "first_seen": "2000-10-20 03:41:00-07:00",
+      "last_seen": "2000-10-20 03:41:00-07:00"
+    },
+    "('eric.bass@enron.com', 'gary.taylor@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-10-17 05:57:00-07:00"
+      ],
+      "first_seen": "2000-10-17 05:57:00-07:00",
+      "last_seen": "2000-10-17 05:57:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'stephen.harrington@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-08-10 05:36:00-07:00"
+      ],
+      "first_seen": "2000-08-10 05:36:00-07:00",
+      "last_seen": "2000-08-10 05:36:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'jeanie.slone@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-20 00:46:00-08:00"
+      ],
+      "first_seen": "2001-02-20 00:46:00-08:00",
+      "last_seen": "2001-02-20 00:46:00-08:00"
+    },
+    "('eric.bass@enron.com', 'daphneco64@yahoo.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-10-12 04:48:00-07:00"
+      ],
+      "first_seen": "2000-10-12 04:48:00-07:00",
+      "last_seen": "2000-10-12 04:48:00-07:00"
+    },
+    "('eric.bass@enron.com', 'jackson.logan@enron.com')": {
+      "weight": 5,
+      "timestamps": [
+        "2000-10-12 01:33:00-07:00",
+        "2000-10-05 01:20:00-07:00",
+        "2000-09-28 01:09:00-07:00",
+        "2000-09-21 07:05:00-07:00",
+        "2000-09-21 01:17:00-07:00"
+      ],
+      "first_seen": "2000-09-21 01:17:00-07:00",
+      "last_seen": "2000-10-12 01:33:00-07:00"
+    },
+    "('eric.bass@enron.com', 'victor.guggenheim@enron.com')": {
+      "weight": 5,
+      "timestamps": [
+        "2000-10-12 01:33:00-07:00",
+        "2000-10-05 01:20:00-07:00",
+        "2000-09-28 01:09:00-07:00",
+        "2000-09-21 07:05:00-07:00",
+        "2000-09-21 01:17:00-07:00"
+      ],
+      "first_seen": "2000-09-21 01:17:00-07:00",
+      "last_seen": "2000-10-12 01:33:00-07:00"
+    },
+    "('eric.bass@enron.com', 'benjamin.markey@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-10-06 01:51:00-07:00"
+      ],
+      "first_seen": "2000-10-06 01:51:00-07:00",
+      "last_seen": "2000-10-06 01:51:00-07:00"
+    },
+    "('cbpres@austin.rr.com', 'pallen@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-11-30 01:55:00-08:00"
+      ],
+      "first_seen": "2000-11-30 01:55:00-08:00",
+      "last_seen": "2000-11-30 01:55:00-08:00"
+    },
+    "('eric.bass@enron.com', 'darron.giron@enron.com')": {
+      "weight": 3,
+      "timestamps": [
+        "2000-10-06 00:45:00-07:00",
+        "2000-09-21 07:05:00-07:00",
+        "2000-09-21 01:17:00-07:00"
+      ],
+      "first_seen": "2000-09-21 01:17:00-07:00",
+      "last_seen": "2000-10-06 00:45:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'andrew_m_ozuna@mail.bankone.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-16 02:15:00-08:00"
+      ],
+      "first_seen": "2001-02-16 02:15:00-08:00",
+      "last_seen": "2001-02-16 02:15:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'lodonnell@spbank.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2001-02-16 01:48:00-08:00",
+        "2001-02-15 05:33:00-08:00"
+      ],
+      "first_seen": "2001-02-15 05:33:00-08:00",
+      "last_seen": "2001-02-16 01:48:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'johnny.palmer@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-15 07:58:00-08:00"
+      ],
+      "first_seen": "2001-02-15 07:58:00-08:00",
+      "last_seen": "2001-02-15 07:58:00-08:00"
+    },
+    "('eric.bass@enron.com', 'peter.keavey@enron.com')": {
+      "weight": 5,
+      "timestamps": [
+        "2000-09-27 05:15:00-07:00",
+        "2000-09-11 04:05:00-07:00",
+        "2000-09-05 04:06:00-07:00",
+        "2000-09-01 04:36:00-07:00",
+        "2000-09-01 03:09:00-07:00"
+      ],
+      "first_seen": "2000-09-01 03:09:00-07:00",
+      "last_seen": "2000-09-27 05:15:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'sunil.dalal@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-08-10 01:52:00-07:00"
+      ],
+      "first_seen": "2000-08-10 01:52:00-07:00",
+      "last_seen": "2000-08-10 01:52:00-07:00"
+    },
+    "('eric.bass@enron.com', 'elsa.villarreal@enron.com')": {
+      "weight": 3,
+      "timestamps": [
+        "2000-09-21 09:06:00-07:00",
+        "2000-09-18 09:22:00-07:00",
+        "2000-09-18 09:22:00-07:00"
+      ],
+      "first_seen": "2000-09-18 09:22:00-07:00",
+      "last_seen": "2000-09-21 09:06:00-07:00"
+    },
+    "('eric.bass@enron.com', 'kevin.bosse@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-09-21 07:05:00-07:00"
+      ],
+      "first_seen": "2000-09-21 07:05:00-07:00",
+      "last_seen": "2000-09-21 07:05:00-07:00"
+    },
+    "('eric.bass@enron.com', 'kyle.etter@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-09-21 07:05:00-07:00"
+      ],
+      "first_seen": "2000-09-21 07:05:00-07:00",
+      "last_seen": "2000-09-21 07:05:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'stouchstone@natsource.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-14 03:04:00-08:00"
+      ],
+      "first_seen": "2001-02-14 03:04:00-08:00",
+      "last_seen": "2001-02-14 03:04:00-08:00"
+    },
+    "('eric.bass@enron.com', 'daren.farmer@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-09-18 09:22:00-07:00",
+        "2000-09-18 09:22:00-07:00"
+      ],
+      "first_seen": "2000-09-18 09:22:00-07:00",
+      "last_seen": "2000-09-18 09:22:00-07:00"
+    },
+    "('eric.bass@enron.com', 'lauri.allen@enron.com')": {
+      "weight": 2,
+      "timestamps": [
+        "2000-09-18 09:22:00-07:00",
+        "2000-09-18 09:22:00-07:00"
+      ],
+      "first_seen": "2000-09-18 09:22:00-07:00",
+      "last_seen": "2000-09-18 09:22:00-07:00"
+    },
+    "('eric.bass@enron.com', 'bdeck62@yahoo.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-09-15 05:52:00-07:00"
+      ],
+      "first_seen": "2000-09-15 05:52:00-07:00",
+      "last_seen": "2000-09-15 05:52:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'mark.whitt@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-12 04:18:00-08:00"
+      ],
+      "first_seen": "2001-02-12 04:18:00-08:00",
+      "last_seen": "2001-02-12 04:18:00-08:00"
+    },
+    "('eric.bass@enron.com', 'jason.wolfe@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-09-13 10:35:00-07:00"
+      ],
+      "first_seen": "2000-09-13 10:35:00-07:00",
+      "last_seen": "2000-09-13 10:35:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'russ.whitton@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-12 04:15:00-08:00"
+      ],
+      "first_seen": "2001-02-12 04:15:00-08:00",
+      "last_seen": "2001-02-12 04:15:00-08:00"
+    },
+    "('phillip.allen@enron.com', 'gallen@thermon.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-09 01:27:00-08:00"
+      ],
+      "first_seen": "2001-02-09 01:27:00-08:00",
+      "last_seen": "2001-02-09 01:27:00-08:00"
+    },
+    "('eric.bass@enron.com', 'neal.d.winfree@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-09-06 00:11:00-07:00"
+      ],
+      "first_seen": "2000-09-06 00:11:00-07:00",
+      "last_seen": "2000-09-06 00:11:00-07:00"
+    },
+    "('eric.bass@enron.com', 'martin.cuilla@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-08-31 02:07:00-07:00"
+      ],
+      "first_seen": "2000-08-31 02:07:00-07:00",
+      "last_seen": "2000-08-31 02:07:00-07:00"
+    },
+    "('phillip.allen@enron.com', 'bridgette.anderson@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2001-02-06 05:27:00-08:00"
+      ],
+      "first_seen": "2001-02-06 05:27:00-08:00",
+      "last_seen": "2001-02-06 05:27:00-08:00"
+    },
+    "('eric.bass@enron.com', 'jonathan.gaskill@enron.com')": {
+      "weight": 1,
+      "timestamps": [
+        "2000-08-25 01:33:00-07:00"
+      ],
+      "first_seen": "2000-08-25 01:33:00-07:00",
+      "last_seen": "2000-08-25 01:33:00-07:00"
+    }
+  },
+  "graph_info": {
+    "num_nodes": 186,
+    "num_edges": 189,
+    "density": 0.005492589363557105
+  }
+}

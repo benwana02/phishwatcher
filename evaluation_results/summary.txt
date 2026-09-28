@@ -1,0 +1,17 @@
+
+Summary:
+--------
+• Dataset: 200 emails (balanced)
+• Best F1 Score: 0.654 at threshold 0.350
+• ROC AUC: 0.777
+• Most Important Feature: temporal
+
+Recommendations:
+---------------
+• Change threshold from 0.500 to 0.350
+• Focus on reducing false positives
+• Focus on reducing false negatives
+• Consider improving content anomaly detection
+• Consider improving behavioral anomaly detection
+
+Files saved to: evaluation_results/

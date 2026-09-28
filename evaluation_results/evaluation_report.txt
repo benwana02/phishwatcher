@@ -1,0 +1,38 @@
+PhishWatcher Evaluation Report
+============================================================
+
+BASIC METRICS (Threshold: 0.350)
+------------------------------------------------------------
+Accuracy:    0.725
+Precision:   0.609
+Recall:      0.233
+F1 Score:    0.337
+ROC AUC:     0.777
+
+CONFUSION MATRIX
+------------------------------------------------------------
+True Positives:  14
+False Positives: 9
+True Negatives:  131
+False Negatives: 46
+
+OPTIMAL THRESHOLD ANALYSIS
+------------------------------------------------------------
+Optimal Threshold: 0.350
+Optimal F1 Score:  0.654
+
+PERFORMANCE AT OPTIMAL THRESHOLD
+------------------------------------------------------------
+Accuracy:  0.730
+Precision: 0.531
+Recall:    0.850
+
+DATASET INFORMATION
+------------------------------------------------------------
+Total Samples: 200
+Threshold:     0.350
+
+RECOMMENDATIONS
+------------------------------------------------------------
+• Low precision: Too many false positives. Consider increasing threshold.
+• Low recall: Too many false negatives. Consider decreasing threshold.

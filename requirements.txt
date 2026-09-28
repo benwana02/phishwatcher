@@ -1,0 +1,16 @@
+# Core packages
+pandas==2.2.3          # Data manipulation
+python-dateutil==2.8.2 # Date parsing
+networkx==3.1          # Graph analysis
+Flask>=3.0.0           # Web framework (optional for now)
+jupyter==1.0.0         # Notebooks for exploration
+tqdm==4.65.0           # Progress bars
+numpy
+matplotlib
+scikit-learn
+
+# Development tools
+pytest==7.4.0          # Testing
+black==23.3.0          # Code formatting
+nltk==3.8.1
+textblob==0.17.1

@@ -1,0 +1,1378 @@
+[
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "unusual_19@external.com"
+      ],
+      "timestamp": "2026-01-26T20:41:30.813221",
+      "subject": "URGENT: Account Required - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "phishing"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.40489130434782605,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7809782608695652,
+      "reasons": [
+        "Unknown recipient: unusual_19@external.com",
+        "Unusual hour: 20:00 (probability: 0.000)",
+        "Unusual day: Monday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.19)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "unusual_33@external.com"
+      ],
+      "timestamp": "2026-02-21T16:16:30.813239",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "suspicious"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7617058311575282,
+      "reasons": [
+        "Unknown recipient: unusual_33@external.com",
+        "Unusual hour: 16:00 (probability: 0.000)",
+        "Unusual day: Saturday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "zimam@enron.com",
+        "leah.arsdall@enron.com"
+      ],
+      "timestamp": "2026-01-28T03:24:30.813254",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.8594080338266386,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7366940667584577,
+      "reasons": [
+        "Rare recipient: zimam@enron.com (probability: 0.001)",
+        "Rare recipient: leah.arsdall@enron.com (probability: 0.001)",
+        "Unusual hour: 3:00 (probability: 0.115)",
+        "Unusual day: Wednesday (probability: 0.200)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "unusual_6@external.com"
+      ],
+      "timestamp": "2026-01-27T15:55:30.813261",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "suspicious"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9249999999999999,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7392058311575282,
+      "reasons": [
+        "Unknown recipient: unusual_6@external.com",
+        "Unusual hour: 15:00 (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "unusual_74@external.com"
+      ],
+      "timestamp": "2026-02-10T12:17:30.813265",
+      "subject": "URGENT: Account Required - xxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "phishing"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.7499999999999999,
+      "content_anomaly": 0.2563098346388164,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.6762619669277633,
+      "reasons": [
+        "Unknown recipient: unusual_74@external.com",
+        "Unusual sentence length (ratio: 0.49)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "unusual_88@external.com"
+      ],
+      "timestamp": "2026-02-02T11:41:30.813271",
+      "subject": "URGENT: Password Required - xxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "phishing"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.919661733615222,
+      "content_anomaly": 0.3655469057029661,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7490079012251598,
+      "reasons": [
+        "Unknown recipient: unusual_88@external.com",
+        "Unusual hour: 11:00 (probability: 0.011)",
+        "Unusual sentence length (ratio: 0.27)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "mike.grigsby@enron.com",
+        "patti.sullivan@enron.com"
+      ],
+      "timestamp": "2026-02-12T09:52:30.813279",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.38505434782608694,
+      "reasons": [
+        "Unusual hour: 9:00 (probability: 0.000)",
+        "Unusual day: Thursday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "LOW"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "information.management@enron.com"
+      ],
+      "timestamp": "2026-02-16T05:03:30.813285",
+      "subject": "Test Subject xxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.75,
+      "temporal_anomaly": 0.9249999999999999,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.6392058311575283,
+      "reasons": [
+        "Rare recipient: information.management@enron.com (probability: 0.250)",
+        "Unusual hour: 5:00 (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "mark.scott@enron.com",
+        "greg.piper@enron.com",
+        "zimam@enron.com"
+      ],
+      "timestamp": "2026-02-07T16:10:30.813291",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9896405919661733,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7757638342003181,
+      "reasons": [
+        "Rare recipient: mark.scott@enron.com (probability: 0.001)",
+        "Rare recipient: greg.piper@enron.com (probability: 0.002)",
+        "Rare recipient: zimam@enron.com (probability: 0.001)",
+        "Unusual hour: 16:00 (probability: 0.012)",
+        "Unusual day: Saturday (probability: 0.007)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "unusual_69@external.com"
+      ],
+      "timestamp": "2026-02-22T10:31:30.813295",
+      "subject": "URGENT: Immediate Required - xxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "phishing"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.40489130434782605,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7809782608695652,
+      "reasons": [
+        "Unknown recipient: unusual_69@external.com",
+        "Unusual hour: 10:00 (probability: 0.000)",
+        "Unusual day: Sunday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.19)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "unusual_77@external.com"
+      ],
+      "timestamp": "2026-02-06T11:02:30.813299",
+      "subject": "URGENT: Verify Required - xxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "phishing"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.2563098346388164,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7512619669277633,
+      "reasons": [
+        "Unknown recipient: unusual_77@external.com",
+        "Unusual hour: 11:00 (probability: 0.000)",
+        "Unusual day: Friday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.49)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "david.l.johnson@enron.com",
+        "leah.arsdall@enron.com",
+        "greg.piper@enron.com"
+      ],
+      "timestamp": "2026-02-18T02:48:30.813306",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.8875264270613108,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7451295847288594,
+      "reasons": [
+        "Rare recipient: david.l.johnson@enron.com (probability: 0.001)",
+        "Rare recipient: leah.arsdall@enron.com (probability: 0.001)",
+        "Rare recipient: greg.piper@enron.com (probability: 0.002)",
+        "Unusual hour: 2:00 (probability: 0.075)",
+        "Unusual day: Wednesday (probability: 0.200)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "unusual_23@external.com"
+      ],
+      "timestamp": "2026-02-15T14:50:30.813310",
+      "subject": "Test Subject xxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "suspicious"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.995137420718816,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7774128828261109,
+      "reasons": [
+        "Unknown recipient: unusual_23@external.com",
+        "Unusual hour: 14:00 (probability: 0.001)",
+        "Unusual day: Sunday (probability: 0.014)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "unusual_73@external.com"
+      ],
+      "timestamp": "2026-01-27T12:04:30.813313",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "suspicious"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9315010570824525,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7583219737352018,
+      "reasons": [
+        "Unknown recipient: unusual_73@external.com",
+        "Unusual hour: 12:00 (probability: 0.006)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "arsystem@mailman.enron.com",
+        "john.lavorato@enron.com",
+        "amanda.huble@enron.com"
+      ],
+      "timestamp": "2026-02-01T09:37:30.813318",
+      "subject": "Test Subject xxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7617058311575282,
+      "reasons": [
+        "Rare recipient: arsystem@mailman.enron.com (probability: 0.250)",
+        "Rare recipient: john.lavorato@enron.com (probability: 0.250)",
+        "Rare recipient: amanda.huble@enron.com (probability: 0.250)",
+        "Unusual hour: 9:00 (probability: 0.000)",
+        "Unusual day: Sunday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "unusual_79@external.com"
+      ],
+      "timestamp": "2026-02-08T10:55:30.813321",
+      "subject": "URGENT: Immediate Required - xxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "phishing"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9788583509513742,
+      "content_anomaly": 0.3655469057029661,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7667668864260054,
+      "reasons": [
+        "Unknown recipient: unusual_79@external.com",
+        "Unusual hour: 10:00 (probability: 0.024)",
+        "Unusual day: Sunday (probability: 0.014)",
+        "Unusual sentence length (ratio: 0.27)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "unusual_51@external.com"
+      ],
+      "timestamp": "2026-02-01T18:13:30.813326",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "suspicious"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.785054347826087,
+      "reasons": [
+        "Unknown recipient: unusual_51@external.com",
+        "Unusual hour: 18:00 (probability: 0.000)",
+        "Unusual day: Sunday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "jane.m.tholt@enron.com",
+        "patti.sullivan@enron.com",
+        "mike.grigsby@enron.com"
+      ],
+      "timestamp": "2026-02-05T08:49:30.813331",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.0,
+      "temporal_anomaly": 0.8599999999999999,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.3430543478260869,
+      "reasons": [
+        "Unusual day: Thursday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "LOW"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "unusual_13@external.com"
+      ],
+      "timestamp": "2026-02-23T09:19:30.813334",
+      "subject": "Test Subject xxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "suspicious"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9249999999999999,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7392058311575282,
+      "reasons": [
+        "Unknown recipient: unusual_13@external.com",
+        "Unusual hour: 9:00 (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "john.shafer@enron.com",
+        "tim.belden@enron.com",
+        "joyce.teixeira@enron.com"
+      ],
+      "timestamp": "2026-01-31T20:50:30.813340",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9977801268498943,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7782056946654344,
+      "reasons": [
+        "Rare recipient: john.shafer@enron.com (probability: 0.001)",
+        "Rare recipient: tim.belden@enron.com (probability: 0.022)",
+        "Rare recipient: joyce.teixeira@enron.com (probability: 0.001)",
+        "Unusual hour: 20:00 (probability: 0.000)",
+        "Unusual day: Saturday (probability: 0.007)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "john.lavorato@enron.com",
+        "arsystem@mailman.enron.com",
+        "amanda.huble@enron.com"
+      ],
+      "timestamp": "2026-02-23T07:08:30.813345",
+      "subject": "Test Subject xxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.575,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.6342058311575283,
+      "reasons": [
+        "Rare recipient: john.lavorato@enron.com (probability: 0.250)",
+        "Rare recipient: arsystem@mailman.enron.com (probability: 0.250)",
+        "Rare recipient: amanda.huble@enron.com (probability: 0.250)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "patti.sullivan@enron.com",
+        "jane.m.tholt@enron.com"
+      ],
+      "timestamp": "2026-02-19T22:14:30.813349",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.38505434782608694,
+      "reasons": [
+        "Unusual hour: 22:00 (probability: 0.000)",
+        "Unusual day: Thursday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "LOW"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "zimam@enron.com",
+        "leah.arsdall@enron.com"
+      ],
+      "timestamp": "2026-01-26T18:37:30.813353",
+      "subject": "Test Subject xxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9263213530655391,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7567680625301278,
+      "reasons": [
+        "Rare recipient: zimam@enron.com (probability: 0.001)",
+        "Rare recipient: leah.arsdall@enron.com (probability: 0.001)",
+        "Unusual hour: 18:00 (probability: 0.001)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "john.lavorato@enron.com"
+      ],
+      "timestamp": "2026-02-17T13:31:30.813358",
+      "subject": "Test Subject xxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.75,
+      "temporal_anomaly": 0.9249999999999999,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.6392058311575283,
+      "reasons": [
+        "Rare recipient: john.lavorato@enron.com (probability: 0.250)",
+        "Unusual hour: 13:00 (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "leah.arsdall@enron.com",
+        "tim.belden@enron.com"
+      ],
+      "timestamp": "2026-02-12T03:00:30.813362",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.866384778012685,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7387870900142717,
+      "reasons": [
+        "Rare recipient: leah.arsdall@enron.com (probability: 0.001)",
+        "Rare recipient: tim.belden@enron.com (probability: 0.022)",
+        "Unusual hour: 3:00 (probability: 0.115)",
+        "Unusual day: Thursday (probability: 0.177)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "phillip.k.allen@enron.com"
+      ],
+      "timestamp": "2026-02-12T08:59:30.813366",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.0,
+      "temporal_anomaly": 0.8599999999999999,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.3430543478260869,
+      "reasons": [
+        "Unusual day: Thursday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "LOW"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "patti.sullivan@enron.com"
+      ],
+      "timestamp": "2026-02-15T10:54:30.813370",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.38505434782608694,
+      "reasons": [
+        "Unusual hour: 10:00 (probability: 0.000)",
+        "Unusual day: Sunday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "LOW"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "information.management@enron.com"
+      ],
+      "timestamp": "2026-01-24T05:32:30.813375",
+      "subject": "Test Subject xxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.75,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.6617058311575283,
+      "reasons": [
+        "Rare recipient: information.management@enron.com (probability: 0.250)",
+        "Unusual hour: 5:00 (probability: 0.000)",
+        "Unusual day: Saturday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "phillip.k.allen@enron.com"
+      ],
+      "timestamp": "2026-01-24T04:14:30.813379",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.0,
+      "temporal_anomaly": 0.8599999999999999,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.3430543478260869,
+      "reasons": [
+        "Unusual day: Saturday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "LOW"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "unusual_99@external.com"
+      ],
+      "timestamp": "2026-02-21T08:24:30.813383",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "suspicious"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7617058311575282,
+      "reasons": [
+        "Unknown recipient: unusual_99@external.com",
+        "Unusual hour: 8:00 (probability: 0.000)",
+        "Unusual day: Saturday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "joyce.teixeira@enron.com",
+        "david.l.johnson@enron.com",
+        "randall.gay@enron.com"
+      ],
+      "timestamp": "2026-02-07T04:25:30.813389",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9445031712473573,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7622226079846733,
+      "reasons": [
+        "Rare recipient: joyce.teixeira@enron.com (probability: 0.001)",
+        "Rare recipient: david.l.johnson@enron.com (probability: 0.001)",
+        "Rare recipient: randall.gay@enron.com (probability: 0.008)",
+        "Unusual hour: 4:00 (probability: 0.076)",
+        "Unusual day: Saturday (probability: 0.007)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "amanda.huble@enron.com",
+        "arsystem@mailman.enron.com",
+        "john.lavorato@enron.com"
+      ],
+      "timestamp": "2026-02-22T14:02:30.813394",
+      "subject": "Test Subject xxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7617058311575282,
+      "reasons": [
+        "Rare recipient: amanda.huble@enron.com (probability: 0.250)",
+        "Rare recipient: arsystem@mailman.enron.com (probability: 0.250)",
+        "Rare recipient: john.lavorato@enron.com (probability: 0.250)",
+        "Unusual hour: 14:00 (probability: 0.000)",
+        "Unusual day: Sunday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "unusual_94@external.com"
+      ],
+      "timestamp": "2026-02-20T06:30:30.813409",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "suspicious"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.72,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7010543478260869,
+      "reasons": [
+        "Unknown recipient: unusual_94@external.com",
+        "Unusual day: Friday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "david.l.johnson@enron.com"
+      ],
+      "timestamp": "2026-02-07T21:26:30.813415",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.9989429175475687,
+      "temporal_anomaly": 0.9977801268498943,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.777782861684462,
+      "reasons": [
+        "Rare recipient: david.l.johnson@enron.com (probability: 0.001)",
+        "Unusual hour: 21:00 (probability: 0.000)",
+        "Unusual day: Saturday (probability: 0.007)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "unusual_55@external.com"
+      ],
+      "timestamp": "2026-01-31T03:48:30.813419",
+      "subject": "Test Subject xxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "suspicious"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9171247357293869,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7540090773292822,
+      "reasons": [
+        "Unknown recipient: unusual_55@external.com",
+        "Unusual hour: 3:00 (probability: 0.115)",
+        "Unusual day: Saturday (probability: 0.007)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "amanda.huble@enron.com"
+      ],
+      "timestamp": "2026-01-26T08:19:30.813424",
+      "subject": "Test Subject xxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.75,
+      "temporal_anomaly": 0.9249999999999999,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.6392058311575283,
+      "reasons": [
+        "Rare recipient: amanda.huble@enron.com (probability: 0.250)",
+        "Unusual hour: 8:00 (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "unusual_98@external.com"
+      ],
+      "timestamp": "2026-02-10T10:35:30.813427",
+      "subject": "Test Subject xxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9249999999999999,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7392058311575282,
+      "reasons": [
+        "Unknown recipient: unusual_98@external.com",
+        "Unusual hour: 10:00 (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "john.lavorato@enron.com",
+        "randall.gay@enron.com"
+      ],
+      "timestamp": "2026-02-17T21:15:30.813432",
+      "subject": "Test Subject xxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9359408033826638,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7596538976252654,
+      "reasons": [
+        "Rare recipient: john.lavorato@enron.com (probability: 0.036)",
+        "Rare recipient: randall.gay@enron.com (probability: 0.008)",
+        "Unusual hour: 21:00 (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "patti.sullivan@enron.com",
+        "mike.grigsby@enron.com"
+      ],
+      "timestamp": "2026-01-30T04:27:30.813438",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.0,
+      "temporal_anomaly": 0.8599999999999999,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.3430543478260869,
+      "reasons": [
+        "Unusual day: Friday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "LOW"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "randall.gay@enron.com",
+        "mark.scott@enron.com"
+      ],
+      "timestamp": "2026-02-01T18:06:30.813442",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.995137420718816,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7774128828261109,
+      "reasons": [
+        "Rare recipient: randall.gay@enron.com (probability: 0.008)",
+        "Rare recipient: mark.scott@enron.com (probability: 0.001)",
+        "Unusual hour: 18:00 (probability: 0.001)",
+        "Unusual day: Sunday (probability: 0.014)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "unusual_92@external.com"
+      ],
+      "timestamp": "2026-01-24T21:43:30.813447",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "suspicious"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.785054347826087,
+      "reasons": [
+        "Unknown recipient: unusual_92@external.com",
+        "Unusual hour: 21:00 (probability: 0.000)",
+        "Unusual day: Saturday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "patti.sullivan@enron.com",
+        "phillip.k.allen@enron.com"
+      ],
+      "timestamp": "2026-02-04T08:47:30.813451",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.0,
+      "temporal_anomaly": 0.6799999999999999,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.28905434782608697,
+      "reasons": [
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "LOW"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "tim.belden@enron.com"
+      ],
+      "timestamp": "2026-02-18T08:16:30.813456",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.9778012684989429,
+      "temporal_anomaly": 0.901585623678647,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7404678511136373,
+      "reasons": [
+        "Rare recipient: tim.belden@enron.com (probability: 0.022)",
+        "Unusual hour: 8:00 (probability: 0.055)",
+        "Unusual day: Wednesday (probability: 0.200)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "david.l.johnson@enron.com",
+        "zimam@enron.com",
+        "leah.arsdall@enron.com"
+      ],
+      "timestamp": "2026-02-01T04:52:30.813461",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.942600422832981,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7616517834603604,
+      "reasons": [
+        "Rare recipient: david.l.johnson@enron.com (probability: 0.001)",
+        "Rare recipient: zimam@enron.com (probability: 0.001)",
+        "Rare recipient: leah.arsdall@enron.com (probability: 0.001)",
+        "Unusual hour: 4:00 (probability: 0.076)",
+        "Unusual day: Sunday (probability: 0.014)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "ina.rangel@enron.com",
+      "recipients": [
+        "unusual_69@external.com"
+      ],
+      "timestamp": "2026-02-12T05:16:30.813465",
+      "subject": "Test Subject xxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9249999999999999,
+      "content_anomaly": 0.3085291557876414,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7392058311575282,
+      "reasons": [
+        "Unknown recipient: unusual_69@external.com",
+        "Unusual hour: 5:00 (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.38)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "tim.belden@enron.com",
+        "randall.gay@enron.com",
+        "joyce.teixeira@enron.com"
+      ],
+      "timestamp": "2026-02-22T11:44:30.813470",
+      "subject": "Test Subject xxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9884778012684989,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7754149969910158,
+      "reasons": [
+        "Rare recipient: tim.belden@enron.com (probability: 0.022)",
+        "Rare recipient: randall.gay@enron.com (probability: 0.008)",
+        "Rare recipient: joyce.teixeira@enron.com (probability: 0.001)",
+        "Unusual hour: 11:00 (probability: 0.011)",
+        "Unusual day: Sunday (probability: 0.014)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "critical.notice@enron.com",
+      "recipients": [
+        "patti.sullivan@enron.com",
+        "phillip.k.allen@enron.com",
+        "ywang@enron.com"
+      ],
+      "timestamp": "2026-02-02T10:05:30.813475",
+      "subject": "Test Subject xxxxxxxxxxxxxxxxxxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.0,
+      "temporal_anomaly": 1.0,
+      "content_anomaly": 0.42527173913043476,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.38505434782608694,
+      "reasons": [
+        "Unusual hour: 10:00 (probability: 0.000)",
+        "Unusual day: Monday (probability: 0.000)",
+        "Unusual sentence length (ratio: 0.15)",
+        "No network data available"
+      ],
+      "risk_level": "LOW"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "randall.gay@enron.com",
+        "leah.arsdall@enron.com",
+        "greg.piper@enron.com"
+      ],
+      "timestamp": "2026-02-22T23:14:30.813480",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 1.0,
+      "temporal_anomaly": 0.9692389006342494,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.769643326800741,
+      "reasons": [
+        "Rare recipient: randall.gay@enron.com (probability: 0.008)",
+        "Rare recipient: leah.arsdall@enron.com (probability: 0.001)",
+        "Rare recipient: greg.piper@enron.com (probability: 0.002)",
+        "Unusual hour: 23:00 (probability: 0.038)",
+        "Unusual day: Sunday (probability: 0.014)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "randall.gay@enron.com"
+      ],
+      "timestamp": "2026-02-09T08:32:30.813485",
+      "subject": "Test Subject xxxxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.9915433403805497,
+      "temporal_anomaly": 0.8885835095137421,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7420640456168086,
+      "reasons": [
+        "Rare recipient: randall.gay@enron.com (probability: 0.008)",
+        "Unusual hour: 8:00 (probability: 0.055)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  },
+  {
+    "email": {
+      "sender": "phillip.allen@enron.com",
+      "recipients": [
+        "joyce.teixeira@enron.com"
+      ],
+      "timestamp": "2026-02-22T10:48:30.813490",
+      "subject": "Test Subject xxxxx",
+      "body": "This is a test email body. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "pattern": "normal"
+    },
+    "analysis": {
+      "recipient_anomaly": 0.9989429175475687,
+      "temporal_anomaly": 0.9788583509513742,
+      "content_anomaly": 0.39435828305233056,
+      "behavioral_anomaly": 0.0,
+      "composite_score": 0.7721063289149059,
+      "reasons": [
+        "Rare recipient: joyce.teixeira@enron.com (probability: 0.001)",
+        "Unusual hour: 10:00 (probability: 0.024)",
+        "Unusual day: Sunday (probability: 0.014)",
+        "Unusual sentence length (ratio: 0.21)",
+        "No network data available"
+      ],
+      "risk_level": "HIGH"
+    }
+  }
+]
