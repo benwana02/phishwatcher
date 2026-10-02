@@ -68,7 +68,7 @@ The ensemble combines four component scores for every scored email:
 | Recipient anomaly | Is this recipient unusual for this sender? | Historical frequency / network relationship analysis |
 | Temporal anomaly | Is the send time unusual for this sender? | Per-sender time-of-day / day-of-week baseline |
 | Behavioural anomaly | Network-relationship anomaly | NetworkX communication graph, centrality & edge history |
-| Stylometric anomaly | Does the writing match the claimed sender? | Per-user z-score + population Isolation Forest over writeprint vectors |
+| Composite (Stylometric) anomaly | Does the writing match the claimed sender? | Per-user z-score + population Isolation Forest over writeprint vectors |
 
 A weighted composite score is thresholded into `NORMAL` / `LOW` / `MEDIUM` / `HIGH` / `CRITICAL` risk levels.
 
